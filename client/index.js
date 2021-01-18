@@ -57,6 +57,16 @@ console.log(prod_num);
 // 1. Create a variable and assign it the list of brands name only
 // 2. Log the variable
 // 3. Log how many brands we have
+var brand_list = []
+marketplace.forEach(function(item) {
+	if (brand_list.includes(item.brand) == false)
+	{
+		brand_list.push(item.brand);
+	}
+
+});
+console.table(brand_list);
+console.log(brand_list.length);
 
 
 // 🎯 TODO: Sort by price
