@@ -108,13 +108,17 @@ function between_50_100(item){
 }
 var filtered_array = marketplace.filter(between_50_100);
 console.table(filtered_array);
+
 // 🎯 TODO: Average Basket
 // 1. Determine the average basket of the marketplace
 // 2. Log the average
+var total_sum = 0;
+for (var item of marketplace) {
+	total_sum += item.price;
+}
 
-
-
-
+var avg_price = total_sum/marketplace.length;
+console.log(avg_price);
 
 /**
  * 🏎
