@@ -103,8 +103,11 @@ console.table(date_sorted_mkplace);
 // 🎯 TODO: Filter a specific price range
 // 1. Filter the list of products between 50€ and 100€
 // 2. Log the list
-
-
+function between_50_100(item){
+	return(item.price>50 && item.price<100);
+}
+var filtered_array = marketplace.filter(between_50_100);
+console.table(filtered_array);
 // 🎯 TODO: Average Basket
 // 1. Determine the average basket of the marketplace
 // 2. Log the average
