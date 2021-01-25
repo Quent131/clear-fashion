@@ -142,7 +142,12 @@ console.log(avg_price);
 //
 // 2. Log the variable
 // 3. Log the number of products by brands
-
+const brands = {};
+for (var brand_index of brand_list) {
+	var prod_list = marketplace.filter(function (i, n) {return n.name==brand_index});
+	brands.push(brand_index : prod_list);
+}
+console.table(brands);
 
 // 🎯 TODO: Sort by price for each brand
 // 1. For each brand, sort the products by price, from highest to lowest
