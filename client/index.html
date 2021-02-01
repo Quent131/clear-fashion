@@ -36,6 +36,7 @@
       <div id="sort">
         <label for="sort-select">Sort:</label>
         <select name="sort" id="sort-select">
+          <option value="default"></option>
           <option value="price-asc">Cheaper</option>
           <option value="price-desc">Expensive</option>
           <option value="date-asc">Recently released</option>
@@ -46,12 +47,12 @@
     <section id="indicators">
       <h2>Indicators</h2>
       <div>
-        <span>Number of products</span>
+        <span>Number of products :</span>
         <span id="nbProducts">0</span>
       </div>
       <div>
         <span>Number of new products</span>
-        <span>0</span>
+        <span id="nbRecentProducts">0</span>
       </div>
       <div>
         <span>p50 price value</span>
