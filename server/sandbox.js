@@ -4,7 +4,7 @@ const mudjeansbrand = require('./sources/mudjeansbrand');
 const adressebrand = require('./sources/adressebrand');
 const fs = require('fs');
 
-async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/men/news', brand, name) {
+async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/loadfilter', brand, name) {
   try {
     console.log(`🕵️‍♀️  browsing ${eshop} source`);
 
@@ -18,6 +18,7 @@ async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/men/news', br
       {if (err) throw err;
         console.log('File saved !');
       });
+    console.log(`${name} products scrape : ${products.length}`);
     //process.exit(0);
   } catch (e) {
     console.error(e);
@@ -27,8 +28,8 @@ async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/men/news', br
 
 const [,, eshop] = process.argv;
 
-sandbox(eshop, dedicatedbrand, 'dedicatedbrand');
+//sandbox(eshop, dedicatedbrand, 'dedicatedbrand');
 const URLMJ = 'https://mudjeans.eu/collections/men';
 sandbox(URLMJ, mudjeansbrand, "mudjeansbrand");
-const URLadresse = 'https://adresse.paris/602-nouveautes';
-sandbox(URLadresse, adressebrand, "adressebrand");
+//const URLadresse = 'https://adresse.paris/630-toute-la-collection?id_category=630&n=109';
+//sandbox(URLadresse, adressebrand, "adressebrand");

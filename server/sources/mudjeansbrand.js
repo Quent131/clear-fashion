@@ -14,10 +14,13 @@ const parse = data => {
             let price = $(element)
                   .find('.row .product-price:first')
                   .text();
-            price = price.substring(
+            price = parseFloat(price.substring(
                 price.lastIndexOf('€') + 1,
                 price.length - 1
-            )
+            ));
+            const uri = $(element)
+                  .find('.primary-image')
+                  .text();
             return {name, price};
         })
         .get();

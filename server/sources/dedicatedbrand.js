@@ -7,24 +7,16 @@ const cheerio = require('cheerio');
  * @return {Array} products
  */
 const parse = data => {
-  const $ = cheerio.load(data);
-
-  return $('.productList-container .productList')
-    .map((i, element) => {
-      const name = $(element)
-        .find('.productList-title')
-        .text()
-        .trim()
-        .replace(/\s/g, ' ');
-      const price = parseInt(
-        $(element)
-          .find('.productList-price')
-          .text()
-      );
-
-      return {name, price};
-    })
-    .get();
+  products = data.products.filter(product => product.length != 0);
+  return products.map(element => {
+      const id = element.id;
+      const uri = element.canonicalUri;
+      const name = element.name;
+      const price = element.price.priceAsNumber;
+      const reduction = element.price.priceReductionAsNumber;
+      const images = element.image;
+      return {id, name, uri, price, reduction, images};
+    });
 };
 
 /**

@@ -14,7 +14,7 @@ const parse = data => {
       const name = $(element)
         .find('.product-name')
         .attr('title');
-      const price = parseInt(
+      const price = parseFloat(
         $(element)
           .find('.price.product-price')
           .text()
