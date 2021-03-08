@@ -74,7 +74,6 @@ function uploadData(){
       throw err;
     }
     fileF = JSON.parse(data.toString());
-    console.log(fileF);
     if(fileF){
       res = insertData(fileF).then()
       if(res.insertedCount = fileF.length){
