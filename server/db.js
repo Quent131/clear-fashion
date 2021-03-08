@@ -31,13 +31,13 @@ dedicatedproducts.forEach(products => {
 	products['brand'] = 'Dedicated';
 });
 
-const client = await MongoClient.connect(MONGODB_URI, {'useUnifiedTopology': true});
+const client = new MongoClient(MONGODB_URI, {'useUnifiedTopology': true});
 
-async function connection(){
+async function connecting(){
 
     await client.connect();
     const db = client.db(MONGO_DB_NAME)
-
+    console.log("Connected !")
     return {client, db};
 }
 
@@ -54,10 +54,9 @@ async function insertData(data){
     let connection = {}
     try{
 
-        connection = await connect();
+        connection = await connecting();
         const collection = connection.db.collection('products');
         const result = await collection.insertMany(data);
-
         return result;
 
     } catch(e) {
@@ -70,15 +69,14 @@ async function insertData(data){
 }
 
 function uploadData(){
-
-  fs.readFile('./products.json', 'utf-8', (err, data) => {
+	fs.readFile('./products.json', 'utf-8', (err, data) => {
     if(err){
       throw err;
     }
-
     fileF = JSON.parse(data.toString());
+    console.log(fileF);
     if(fileF){
-      res = db.insertData(fileF).then()
+      res = insertData(fileF).then()
       if(res.insertedCount = fileF.length){
         console.log("Upload succesfull");
       } else {
@@ -88,5 +86,12 @@ function uploadData(){
   });
 }
 
-const products = [];
-products.push(adresseproducts, mudjeansproducts, dedicatedproducts);
+const products = adresseproducts;
+products.push( mudjeansproducts, dedicatedproducts);
+const jsonContent = JSON.stringify(products, null, 2);
+fs.writeFile(`products.json`, jsonContent, 'utf8', (err) => 
+	{if (err) throw err;
+		console.log('Products file saved !');
+    });
+///console.log(products)
+uploadData();
