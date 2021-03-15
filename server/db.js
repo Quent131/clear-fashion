@@ -56,7 +56,7 @@ async function insertData(data){
 
         connection = await connecting();
         const collection = connection.db.collection('products');
-        const result = await collection.insertMany(data);
+        const result = await collection.insertMany( data);
         return result;
 
     } catch(e) {
@@ -68,29 +68,15 @@ async function insertData(data){
     }
 }
 
-function uploadData(){
-	fs.readFile('./products.json', 'utf-8', (err, data) => {
-    if(err){
-      throw err;
+function uploadData(data){
+      res = insertData(data).then(console.log("Upload succesfull"));
     }
-    fileF = JSON.parse(data.toString());
-    if(fileF){
-      res = insertData(fileF).then()
-      if(res.insertedCount = fileF.length){
-        console.log("Upload succesfull");
-      } else {
-        console.log(res);
-      }
-    }
-  });
-}
 
 const products = adresseproducts;
-products.push( mudjeansproducts, dedicatedproducts);
+products.push( ...mudjeansproducts, ...dedicatedproducts);
 const jsonContent = JSON.stringify(products, null, 2);
 fs.writeFile(`products.json`, jsonContent, 'utf8', (err) => 
 	{if (err) throw err;
 		console.log('Products file saved !');
     });
-///console.log(products)
-uploadData();
+uploadData(products);
