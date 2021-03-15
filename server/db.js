@@ -33,11 +33,11 @@ dedicatedproducts.forEach(products => {
 
 const client = new MongoClient(MONGODB_URI, {'useUnifiedTopology': true});
 
-async function connecting(){
+module.exports.connecting = async function connecting(){
 
     await client.connect();
     const db = client.db(MONGO_DB_NAME)
-    console.log("Connected !")
+    console.log("Connected to database!")
     return {client, db};
 }
 
@@ -50,7 +50,7 @@ async function close(client){
 
 }
 
-async function insertData(data){
+module.exports.insert = async function insertData(data){
     let connection = {}
     try{
 
@@ -67,6 +67,20 @@ async function insertData(data){
         await close(connection.client);
     }
 }
+
+module.exports.find = async query => {
+  try {
+    const db = await getDB();
+    const collection = db.collection(MONGODB_COLLECTION);
+    const result = await collection.find(query).toArray();
+
+    return result;
+  } catch (error) {
+    console.error('collection.find...', error);
+    return null;
+  }
+};
+
 
 function uploadData(data){
       res = insertData(data).then(console.log("Upload succesfull"));
