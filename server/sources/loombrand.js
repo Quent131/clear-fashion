@@ -10,36 +10,34 @@ const {'v5': uuidv5} = require('uuid');
 const parse = data => {
   const $ = cheerio.load(data);
 
-  return $('.product_list .product-container')
-    .filter((i, element) => {
-      const link = $(element)
-      .find('.product_img_link')
-      .attr('href');
-      if (link) {
-        return true;
-      } else {return false;}
-    })
+  return $('.product-grid__item')
     .map((i, element) => {
-      const link = $(element)
-      .find('.product_img_link')
-      .attr('href');
+
+      const link = `https://www.loom.fr${$(element)
+        .find('.product-title a')
+        .attr('href')}`;
+
+      const brand = 'loom';
+
+      const name = $(element)
+        .find('.product-title')
+        .text()
+        .trim()
+        .replace(/\s/g, ' ');
+
+
+      let price = parseInt($(element)
+        .find('.money')
+        .text());
+
+
+      const image = $(element)
+        .find('.product_card__image')
+        .attr('src');
 
       const _id = uuidv5(link, uuidv5.URL);
 
-      const name = $(element)
-        .find('.product-name')
-        .attr('title');
-      const price = parseFloat(
-        $(element)
-          .find('.price.product-price')
-          .text()
-      );
-
-      const image = $(element)
-        .find('.replace-2x')
-        .attr('data-original');
-
-      return {_id, 'brand':'adresse', name, price, link, image};
+      return {_id, brand, name, price, link, image};
     })
     .get();
 };

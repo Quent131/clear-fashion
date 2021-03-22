@@ -5,10 +5,10 @@ const {'v5': uuidv5} = require('uuid');
 const parse = data => {
   const $ = cheerio.load(data);
 
-    return $('.content-row .product-link')
+    return $('.ProductTileWrapper')
         .map((i, element) => {
-            const link = `https://mudjeans.eu${$(element)
-            .find("a.product-image")
+            const link = `https://ba-sh.com${$(element)
+            .find('.ProductTile-link')
             .attr('href')}`
 
 
@@ -16,25 +16,20 @@ const parse = data => {
 
 
             const name = $(element)
-            .find('.product-title')
-            .text()
-            .trim()
-            .replace(/\s/g, ' ');
+            .find('.ProductTile-link')
+            .attr('title');
 
 
-            let price = $(element)
-                  .find('.row .product-price:first')
-                  .text();
-            price = parseFloat(price.substring(
-                price.lastIndexOf('€') + 1,
-                price.length - 1
-            ));
+            let price = parseFloat($(element)
+                  .find('.Product-price')
+                  .text());
+
+
             const image = $(element)
-                .find('.img.img--wrapper')
                 .find('img')
                 .attr('src');
 
-            return {_id, 'brand': 'mudjeans', name, price, link, image};
+            return {_id, 'brand': 'bash', name, price, link, image};
         })
         .get();
 };

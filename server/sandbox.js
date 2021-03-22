@@ -1,8 +1,12 @@
 /* eslint-disable no-console, no-process-exit */
 const dedicatedbrand = require('./sources/dedicatedbrand');
 const mudjeansbrand = require('./sources/mudjeansbrand');
+const mudjeansbrand_W = require('./sources/mudjeansbrand_W');
 const adressebrand = require('./sources/adressebrand');
+const loombrand = require('./sources/loombrand');
+const bashbrand = require('./sources/bashbrand');
 const fs = require('fs');
+
 
 async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/loadfilter', brand, name) {
   try {
@@ -28,8 +32,19 @@ async function sandbox (eshop = 'https://www.dedicatedbrand.com/en/loadfilter', 
 
 const [,, eshop] = process.argv;
 
-//sandbox(eshop, dedicatedbrand, 'dedicatedbrand');
-const URLMJ = 'https://mudjeans.eu/collections/men';
-sandbox(URLMJ, mudjeansbrand, "mudjeansbrand");
-//const URLadresse = 'https://adresse.paris/630-toute-la-collection?id_category=630&n=109';
-//sandbox(URLadresse, adressebrand, "adressebrand");
+sandbox(eshop, dedicatedbrand, 'dedicatedbrand');
+
+const URLMJ_M = 'https://mudjeans.eu/collections/men';
+sandbox(URLMJ_M, mudjeansbrand, "mudjeansbrand");
+
+const URLMJ_W ='https://mudjeans.eu/collections/women-buy-jeans'
+sandbox(URLMJ_W, mudjeansbrand_W, "mudjeansbrand_W");
+
+const URLadresse = 'https://adresse.paris/630-toute-la-collection?id_category=630&n=109';
+sandbox(URLadresse, adressebrand, "adressebrand");
+
+const URLloom = 'https://www.loom.fr/collections/tous-les-vetements'
+sandbox(URLloom, loombrand, "loombrand")
+
+const URLbash = 'https://ba-sh.com/fr/fr/pap-collection/'
+sandbox(URLbash, bashbrand, "bashbrand")

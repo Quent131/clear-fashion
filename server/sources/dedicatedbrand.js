@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const {'v5': uuidv5} = require('uuid');
 
 /**
  * Parse webpage e-shop
@@ -9,13 +10,12 @@ const cheerio = require('cheerio');
 const parse = data => {
   products = data.products.filter(product => product.length != 0);
   return products.map(element => {
-      const id = element.id;
-      const uri = element.canonicalUri;
+      const link = `https://www.dedicatedbrand.com/en/${element.canonicalUri}`;
+      const _id = uuidv5(link, uuidv5.URL);
       const name = element.name;
       const price = element.price.priceAsNumber;
-      const reduction = element.price.priceReductionAsNumber;
-      const images = element.image;
-      return {id, name, uri, price, reduction, images};
+      const image = element.image[0];
+      return {_id, 'brand':'dedicated',name, price, link, image};
     });
 };
 

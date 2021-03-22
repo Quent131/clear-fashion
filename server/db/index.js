@@ -66,8 +66,8 @@ module.exports.find = async (query, limit=0) => {
     const collection = db.collection(MONGODB_COLLECTION);
     let result = null;
     if(limit!=0) {
-      result = await collection.find(query).limit(limit).toArray();
-    } else {result = await collection.find(query).toArray();}
+      result = await collection.find(query).sort({price:1}).limit(limit).toArray();
+    } else {result = await collection.find(query).sort({price:1}).toArray();}
     return result;
   } catch (error) {
     console.error('🚨 collection.find...', error);

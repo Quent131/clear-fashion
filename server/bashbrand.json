@@ -1,0 +1,482 @@
+[
+  {
+    "_id": "a703416a-06e5-5cf0-9169-98c8bf98487b",
+    "brand": "bash",
+    "name": "PLUME",
+    "price": 250,
+    "link": "https://ba-sh.com/fr/fr/p/robe-plume-vert-3664784334217.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwfd731261/allImages/E21/1E21PLUM_VERT_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "dbb5e878-fff1-5004-ab50-2a73c0cdfcec",
+    "brand": "bash",
+    "name": "JASMINE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/robe-jasmine-ecru-3664784338369.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwde320c57/allImages/E21/1E21JASM_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "d1b5f868-365f-5ee8-9f4d-9d1222b6e64b",
+    "brand": "bash",
+    "name": "TAO",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-tao-ecru-3664784304173.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf13b300a/allImages/E21/1E21TAO_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5a89c291-cdb9-5409-b245-38603cd87d16",
+    "brand": "bash",
+    "name": "BIRKIN",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-birkin-ecru-3664784334774.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwec2e0cb3/allImages/E21/1E21BIRK_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "30342825-f460-5385-8af1-bbac3bd28ca7",
+    "brand": "bash",
+    "name": "POSY",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/robe-posy-violet-3664784242802.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw090f00c8/allImages/H18NEW/1E20POSY_VIOLET_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "044dba4a-a2a7-50c6-9165-fe0f174a4b2e",
+    "brand": "bash",
+    "name": "SOMA",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/robe-soma-noir-3664784332411.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwdacd956f/allImages/E21/1H20SOMA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5495c748-d91b-5428-9526-c9f5f76ae0d7",
+    "brand": "bash",
+    "name": "ODETTE",
+    "price": 320,
+    "link": "https://ba-sh.com/fr/fr/p/robe-odette-vertdeau-3664784342151.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe28e3d20/allImages/E21/1E21ODET_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "ee730264-79cd-50d3-b1a5-4e2e4d1e4784",
+    "brand": "bash",
+    "name": "CURIOUS",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-curious-naturel-3664784203094.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw1e5a524f/allImages/E21/1E20CURI_NATUREL_2.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "fe959de4-665b-5c95-a98d-479e92c40b40",
+    "brand": "bash",
+    "name": "VEDA",
+    "price": 120,
+    "link": "https://ba-sh.com/fr/fr/p/top-veda-noir-3664784337720.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw5e6a35e0/allImages/E21/1E21VEDA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5a85af1b-6d71-5e9d-b2f2-aec49192d78c",
+    "brand": "bash",
+    "name": "ORIANE",
+    "price": 390,
+    "link": "https://ba-sh.com/fr/fr/p/robe-oriane-peche-3664784335412.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw258eef5f/allImages/E21/1E21ORIA_PECHE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "6569b95f-09f2-5310-a63a-93a94805d892",
+    "brand": "bash",
+    "name": "VALOU",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/jupe-valou-noir-3664784337805.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb431fe95/allImages/E21/1E21VALO_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "75c20de2-6f81-5cc2-8638-2e4baaacd056",
+    "brand": "bash",
+    "name": "SOPHIE",
+    "price": 240,
+    "link": "https://ba-sh.com/fr/fr/p/robe-sophie-noir-3664784280958.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw70fc0266/allImages/H18NEW/1H20SOPH_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "a2c81d5b-f88a-5a67-9188-4567a1f5bf75",
+    "brand": "bash",
+    "name": "TAHLIA",
+    "price": 290,
+    "link": "https://ba-sh.com/fr/fr/p/veste-tahlia-noir-3664784330363.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe2c8f22d/allImages/E21/1E21TAHL_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "52b181cd-fd28-5454-8702-088f52334de0",
+    "brand": "bash",
+    "name": "EVAN",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/jeans-evan-lightusedblue-3664784338161.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw7b435ef3/allImages/E21/1E21EVAN_LIGHTUSEDBLUE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "e7280eb6-5d3d-5101-bcba-7300a05be482",
+    "brand": "bash",
+    "name": "TYANA",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-tyana-bleuciel-3664784344209.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw726425bd/allImages/E21/1E21TYAN_BLEUCIEL_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "15dac13e-af98-599b-8bb2-2cc6f1e42ea6",
+    "brand": "bash",
+    "name": "VIKA",
+    "price": 220,
+    "link": "https://ba-sh.com/fr/fr/p/robe-vika-noir-3664784328391.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf621b334/allImages/E21/1E21VIKA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "1eaf4b67-1ca3-5772-a327-6e3fb866e71a",
+    "brand": "bash",
+    "name": "ORIANE",
+    "price": 390,
+    "link": "https://ba-sh.com/fr/fr/p/robe-oriane-vertdeau-3664784335375.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5a722f5/allImages/E21/1E21ORIA_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "48f6d9d2-02bd-5fe5-aa24-dc4f293e9df3",
+    "brand": "bash",
+    "name": "OLYMPE",
+    "price": 80,
+    "link": "https://ba-sh.com/fr/fr/p/top-olympe-noir-3664784277477.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9b12cb48/allImages/E21/1H20OLYM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "a9886845-a219-5a17-bd19-00e540a66d42",
+    "brand": "bash",
+    "name": "JUNE",
+    "price": 138,
+    "link": "https://ba-sh.com/fr/fr/p/pull-june-noir-3664784265139.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf76aa227/allImages/H18NEW/1H20JUNE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "d745fc3d-bbc8-50d6-b2d6-0485382e70e1",
+    "brand": "bash",
+    "name": "PALAIA",
+    "price": 240,
+    "link": "https://ba-sh.com/fr/fr/p/robe-palaia-noir-3664784342274.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw4f166e49/allImages/E21/1E21PALA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "dc709aa5-dcae-5d3e-9f1f-7eea3cb8565e",
+    "brand": "bash",
+    "name": "NORMA",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/robe-norma-noir-3664784334415.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2437fd55/allImages/E21/1E21NORM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "37b086f3-ac7f-54b8-98b9-f790ecfe7c8f",
+    "brand": "bash",
+    "name": "BOSSA",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-bossa-ecru-3664784337645.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2468d356/allImages/E21/1E21BOSS_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "cf4307d2-9e3b-5980-b599-855b1073c48f",
+    "brand": "bash",
+    "name": "BASHA",
+    "price": 340,
+    "link": "https://ba-sh.com/fr/fr/p/veste-basha-noir-3664784348092.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd6ded35d/allImages/E21/1E21BASH_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "0b0c0532-a222-539f-8545-3c309bc647a7",
+    "brand": "bash",
+    "name": "CIMBA",
+    "price": 90,
+    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-mauve-3664784306054.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw206b1ca4/allImages/H18NEW/1E21CIMB_MAUVE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "2e92be8e-cfa8-5f71-9bc6-fac61b6227e3",
+    "brand": "bash",
+    "name": "PANAMA",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/blouse-panama-vert-3664784334132.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2dbc5028/allImages/E21/1E21PANA_VERT_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "98012a79-7692-5b41-8e8e-c30342f96e61",
+    "brand": "bash",
+    "name": "CALUSO",
+    "price": 50,
+    "link": "https://ba-sh.com/fr/fr/p/top-caluso-blanc-3664784338208.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw64c734ec/allImages/E21/1E21CALU_BLANC_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "65d3bfa6-508c-595d-8546-964c8d098259",
+    "brand": "bash",
+    "name": "VENUS",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-venus-noir-3664784328315.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw358d84d1/allImages/E21/1E21VENU_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "7db32d7b-7836-5fd5-a48f-c2d88d891b03",
+    "brand": "bash",
+    "name": "TOMY",
+    "price": 95,
+    "link": "https://ba-sh.com/fr/fr/p/jupe-tomy-bordeaux-3664784288688.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2848aff3/allImages/H18NEW/1H20TOMY_BORDEAUX_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "ffb707ff-af92-5ef4-ba78-8702edbc5b89",
+    "brand": "bash",
+    "name": "ORSAY",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-orsay-marine-3664784335139.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb662806e/allImages/E21/1E21ORSA_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "7c4ddb8d-d123-57da-8ec2-40a37d8674d6",
+    "brand": "bash",
+    "name": "NEO",
+    "price": 75,
+    "link": "https://ba-sh.com/fr/fr/p/tshirt-neo-ecru-3664784321972.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8a199083/allImages/H18NEW/1E21NEO_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "4a6feff3-8e49-59ae-89fa-370155db70ba",
+    "brand": "bash",
+    "name": "SWEET",
+    "price": 230,
+    "link": "https://ba-sh.com/fr/fr/p/robe-sweet-noir-3664784304098.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb00acc44/allImages/E21/1E21SWEE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "9030bffb-5870-5d29-90db-6a02eceb8018",
+    "brand": "bash",
+    "name": "BAHIA",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/jupe-bahia-rose-3664784339243.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw19c3828c/allImages/E21/1E21BAHI_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "166eecae-d60c-54f9-a701-227071ac1e9e",
+    "brand": "bash",
+    "name": "MEL",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-mel-noir-3664784324553.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd11e0082/allImages/E21/1E21MEL_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "8167f3e6-fceb-5d9a-baf1-49f1d8f828b7",
+    "brand": "bash",
+    "name": "GLORIA",
+    "price": 320,
+    "link": "https://ba-sh.com/fr/fr/p/robe-gloria-ocre-3664784299936.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa5a8d0d2/allImages/H18NEW/1E21GLOR_OCRE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "79bcc2dd-3c27-5368-a4d2-d2a3b7cf3a2e",
+    "brand": "bash",
+    "name": "PARKER",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-parker-kaki-3664784337041.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw21ce40a4/allImages/E21/1E21PARK_KAKI_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "783d93f5-1b84-5131-bbb2-a58647053049",
+    "brand": "bash",
+    "name": "DAVID",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/short-david-ecru-3664784333616.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw924867e6/allImages/E21/1E21DAVI_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "7bf177de-9f74-5ab5-b6a0-e228eda4cf79",
+    "brand": "bash",
+    "name": "CIMBA",
+    "price": 90,
+    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-carbone-3664784306016.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwad129c60/allImages/E21/1E21CIMB_CARBONE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "cdc47670-420d-5745-b32a-2d2eefa93ca2",
+    "brand": "bash",
+    "name": "JAKE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/jeans-jake-handbrush-3664784276470.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9d833923/allImages/H18NEW/1H20JAKE_HANDBRUSH_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "131d3021-09bb-5242-8c88-db4812f4c03f",
+    "brand": "bash",
+    "name": "BLAKE",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-blake-rose-3664784339403.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd5f3c223/allImages/E21/1E21BLAK_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "e1fec28d-fbe8-5bf4-9be0-1e93c622300a",
+    "brand": "bash",
+    "name": "ELIA",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-elia-noir-3664784301776.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5892a6a/allImages/E21/1E21ELIA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "bdd8535c-2efa-5476-b506-5112e9e28748",
+    "brand": "bash",
+    "name": "DAVID",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/short-david-blackstone-3664784333654.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw6d1fe59d/allImages/E21/1E21DAVI_BLACKSTONE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "2fded322-2a8d-5d3c-a43b-d48ebdcc9778",
+    "brand": "bash",
+    "name": "ULLIA",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/robe-ullia-noir-3664784286103.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa6bc5af7/allImages/H18NEW/1H20ULLI_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "b30155f2-c26a-5f01-828f-216ca4c882c9",
+    "brand": "bash",
+    "name": "MACHA",
+    "price": 260,
+    "link": "https://ba-sh.com/fr/fr/p/robe-macha-marine-3664784344681.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe78d38bb/allImages/E21/1E21MACH_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "43091c5d-6c1a-5503-8af4-50d16cd1bdde",
+    "brand": "bash",
+    "name": "CSELBY",
+    "price": 140,
+    "link": "https://ba-sh.com/fr/fr/p/short-cselby-blackstone-3664784356325.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc90cbc39/allImages/E21/1E21CSEL_BLACKSTONE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "c9116b9f-9119-5cda-a8e0-301123e62f7f",
+    "brand": "bash",
+    "name": "BEE",
+    "price": 290,
+    "link": "https://ba-sh.com/fr/fr/p/robe-bee-rose-3664784339328.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw15eb242c/allImages/E21/1E21BEE_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "9137bdb5-93af-5dd0-aaf0-66136fb0f66f",
+    "brand": "bash",
+    "name": "MUSE",
+    "price": 210,
+    "link": "https://ba-sh.com/fr/fr/p/robe-muse-noir-3664784324515.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa9496e67/allImages/E21/1E21MUSE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "a1f277ec-3a3b-5e60-b239-57f8f7e331d7",
+    "brand": "bash",
+    "name": "JOSH",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/short-josh-ciel-3664784334019.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf064c380/allImages/E21/1E21JOSH_CIEL_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "683e4e97-28a7-502a-a84f-13a96b283564",
+    "brand": "bash",
+    "name": "FIGUE",
+    "price": 115,
+    "link": "https://ba-sh.com/fr/fr/p/debardeur-figue-bleunuit-3664784343769.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw78279c9f/allImages/E21/1E21FIGU_BLEUNUIT_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "76812391-3685-52a2-b0b6-641c22b8a060",
+    "brand": "bash",
+    "name": "ATHENA",
+    "price": 390,
+    "link": "https://ba-sh.com/fr/fr/p/robe-athena-rouge-3664784303176.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw3cb658a1/allImages/E21/1E21ATHE_ROUGE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5acd4a8f-cb9a-5207-a1ef-bc36b45a6e7e",
+    "brand": "bash",
+    "name": "EZRA",
+    "price": 280,
+    "link": "https://ba-sh.com/fr/fr/p/robe-ezra-noir-3664784301899.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9ea12d9d/allImages/E21/1E21EZRA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "3e7a364a-bff7-5040-a9fa-9e57935ab309",
+    "brand": "bash",
+    "name": "CANDICE",
+    "price": 250,
+    "link": "https://ba-sh.com/fr/fr/p/robe-candice-noir-3664784299295.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5782a97/allImages/E21/1E21CAND_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "36819754-5d27-5c12-98ed-79683d4a1e7b",
+    "brand": "bash",
+    "name": "CLAIRE",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/pull-claire-ecru-3664784334736.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8d7359e2/allImages/E21/1E21CLAI_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "2768fd12-56d4-5d4d-aa04-5b073c3d9aef",
+    "brand": "bash",
+    "name": "COMY",
+    "price": 350,
+    "link": "https://ba-sh.com/fr/fr/p/bottines-comy-noir-3664784274728.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw4b7653fc/allImages/E21/2H20COMY_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "77fea5e7-1be4-579a-82b6-2025f3e63a2a",
+    "brand": "bash",
+    "name": "CLEA",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/blouse-clea-noir-3664784299417.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw669bdf64/allImages/E21/1E21CLEA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5fb8cecd-8e2d-55bd-9370-204a64d672fb",
+    "brand": "bash",
+    "name": "ALIA",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-alia-ecru-3664784300410.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8e02649e/allImages/H18NEW/1E21ALIA_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "0351ee25-2653-5770-993d-5923689c404d",
+    "brand": "bash",
+    "name": "WILL",
+    "price": 210,
+    "link": "https://ba-sh.com/fr/fr/p/top-will-ecru-3664784350705.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2d31d9ab/allImages/E21/1E21WILL_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "e99b8b96-fdf9-5ee7-93e0-a87ceec58da0",
+    "brand": "bash",
+    "name": "BRAVE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-brave-noir-3664784329923.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb564e91a/allImages/E21/1E21BRAV_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "0d7e258b-d2ff-5c34-a7d6-a2387cb0e068",
+    "brand": "bash",
+    "name": "GALINA",
+    "price": 280,
+    "link": "https://ba-sh.com/fr/fr/p/skirt-galina-ocre-3664784299776.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw27f36c5e/allImages/E21/1E21GALI_OCRE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "0a160262-381d-56fd-8c32-a73be1020f7b",
+    "brand": "bash",
+    "name": "ALICANTE",
+    "price": 220,
+    "link": "https://ba-sh.com/fr/fr/p/jupe-alicante-rouge-3664784344803.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc6b1bb18/allImages/H18NEW/1E21ALIC_ROUGE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "7ba557fb-2a87-5b61-ade9-8be7cdaa178e",
+    "brand": "bash",
+    "name": "LUCE",
+    "price": 115,
+    "link": "https://ba-sh.com/fr/fr/p/short-luce-kaki-3664784333975.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb61d0466/allImages/E21/1E21LUCE_KAKI_1.jpg?sw=870&sh=1389&sm=fit"
+  }
+]
