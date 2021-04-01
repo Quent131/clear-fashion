@@ -160,11 +160,11 @@
     "image": "https://adresse.paris/29633-home_default/manteau-europe.jpg"
   },
   {
-    "_id": "5a1e7f2d-8649-52bd-9121-4316078e85fb",
+    "_id": "d45515e0-250f-5266-aa0b-a1964a70cbd9",
     "brand": "adresse",
     "name": "Jean Unbranded Brut 99% coton - DENIM",
     "price": 119,
-    "link": "https://adresse.paris/chinos-pantalons-shorts/3395-jean-tight-elasthane-ubranded-1000000157130.html#/34-couleur-denim/40-taille_fastmag-32_34",
+    "link": "https://adresse.paris/chinos-pantalons-shorts/3395-jean-tight-elasthane-ubranded-1000000157130.html#/34-couleur-denim/42-taille_fastmag-31_34",
     "image": "https://adresse.paris/30120-home_default/jean-tight-elasthane-ubranded.jpg"
   },
   {
@@ -226,7 +226,7 @@
   {
     "_id": "214f153e-4ab2-5140-84a2-e3583b230c54",
     "brand": "adresse",
-    "name": "Pull Monceau",
+    "name": "Pull Monceau ecru",
     "price": 79,
     "link": "https://adresse.paris/pulls-sweatshirts/3919-pull-a-col-rond-monceau-1300000247948.html",
     "image": "https://adresse.paris/31203-home_default/pull-a-col-rond-monceau.jpg"
@@ -435,7 +435,7 @@
     "_id": "6af07f6a-c39c-5a9f-a06f-aac2785981b1",
     "brand": "adresse",
     "name": "T-shirt Valdes",
-    "price": 39,
+    "price": 40,
     "link": "https://adresse.paris/chemises/4185-t-shirt-valdes-1300000259675.html",
     "image": "https://adresse.paris/32008-home_default/t-shirt-valdes.jpg"
   },
@@ -603,7 +603,7 @@
     "_id": "518dfb96-a189-5e16-91ec-bb61f5bac0f0",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4251-sweatshirt-jaures-1300000262088.html",
     "image": "https://adresse.paris/30346-home_default/sweatshirt-jaures.jpg"
   },
@@ -667,7 +667,7 @@
     "_id": "4bf00bcb-50d5-5cc8-95af-385f99242a9c",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès Hokusai",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4293-jaures-hokusai-1300000266635.html",
     "image": "https://adresse.paris/30971-home_default/jaures-hokusai.jpg"
   },
@@ -675,7 +675,7 @@
     "_id": "3de69b11-b1f5-5581-b5e5-3f9170507c83",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès Hokusai Bordeaux",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4294-jaures-hokusai-1300000266598.html",
     "image": "https://adresse.paris/30975-home_default/jaures-hokusai.jpg"
   },
@@ -693,7 +693,7 @@
     "name": "Regular Dunn - True Indigo",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-true-indigo",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-True-Indigo-Fullfront_346x498.jpg?v=1611740786"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-True-Indigo-Fullfront_346x498.jpg?v=1611740786"
   },
   {
     "_id": "94bfcb48-640a-5228-a179-67ff9d87a2ce",
@@ -701,7 +701,7 @@
     "name": "Regular Dunn Stretch - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Stone-Black-Fullfront_346x498.jpg?v=1611740573"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Stone-Black-Fullfront_346x498.jpg?v=1611740573"
   },
   {
     "_id": "120ba696-0ede-528b-8242-c708f944a380",
@@ -709,7 +709,7 @@
     "name": "Regular Dunn Stretch- Pure Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Pure-Blue-Fullfront_346x498.jpg?v=1611740558"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Pure-Blue-Fullfront_346x498.jpg?v=1611740558"
   },
   {
     "_id": "c7b16283-2a47-5966-ab72-64735f2ee8c6",
@@ -717,7 +717,7 @@
     "name": "Regular Dunn Stretch - O3 Grey",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-o3-grey",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-03-Grey-Fullfront_346x498.jpg?v=1611740370"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-03-Grey-Fullfront_346x498.jpg?v=1611740370"
   },
   {
     "_id": "40872898-4aaf-514f-9685-1c49873fb488",
@@ -725,7 +725,7 @@
     "name": "Regular Dunn Stretch - Dip Dry",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-dip-dry",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Dip-Dry-Fullfront-1_346x498.jpg?v=1611740294"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Dip-Dry-Fullfront-1_346x498.jpg?v=1611740294"
   },
   {
     "_id": "a0cf1bce-2fa9-59b4-a257-8a8539f601c1",
@@ -733,7 +733,7 @@
     "name": "Regular Dunn - Sun Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-sun-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Sun-Stone-Fullfront_346x498.jpg?v=1611740720"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Sun-Stone-Fullfront_346x498.jpg?v=1611740720"
   },
   {
     "_id": "e1e226dd-36c7-5a5d-bfbf-3493356d0d52",
@@ -741,7 +741,7 @@
     "name": "Regular Dunn - Stone Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-dunn-stone-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Stone-Blue-Fullfront_346x498.jpg?v=1611740656"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Regular-Dunn-Stone-Blue-Fullfront_346x498.jpg?v=1611740656"
   },
   {
     "_id": "d4b2c4f5-d435-58d8-b5dc-76cbf8dec6be",
@@ -749,7 +749,7 @@
     "name": "Regular Bryce - Authentic Indigo - RCY",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-bryce-authentic-indigo-rcy",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Authentic-Indigo-Fullfront-1_346x498.jpg?v=1606315105"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Authentic-Indigo-Fullfront-1_346x498.jpg?v=1606315105"
   },
   {
     "_id": "f97162b8-e13c-5821-b397-86f561722b2a",
@@ -757,7 +757,7 @@
     "name": "Regular Bryce - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-bryce-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Strong-Blue-Fullfront-3_1_346x498.jpg?v=1606315196"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Strong-Blue-Fullfront-3_1_346x498.jpg?v=1606315196"
   },
   {
     "_id": "1aaa98a9-0856-5ef3-9e58-fb9762658b94",
@@ -765,7 +765,7 @@
     "name": "Regular Bryce - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/regular-bryce-heavy-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Heavy-Stone-Fullfront-1_346x498.jpg?v=1606315246"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Heavy-Stone-Fullfront-1_346x498.jpg?v=1606315246"
   },
   {
     "_id": "17baa8e5-9329-5543-a0db-2494d3f267c7",
@@ -773,7 +773,7 @@
     "name": "Regular Bryce - Dry Spirit",
     "price": 139,
     "link": "https://mudjeans.eu/collections/men/products/regular-bryce-dry-spirit",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Dip-Dry-Fullfront-11_1_346x498.jpg?v=1606314991"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Regular-Bryce-Dip-Dry-Fullfront-11_1_346x498.jpg?v=1606314991"
   },
   {
     "_id": "d4fc757a-a381-5cb6-8fa5-d9beb856a9b8",
@@ -781,7 +781,7 @@
     "name": "Extra Easy - Fan Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/extra-easy-fan-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Extra-Easy-Fan-Stone-Fullfront_346x498.jpg?v=1606315292"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Extra-Easy-Fan-Stone-Fullfront_346x498.jpg?v=1606315292"
   },
   {
     "_id": "4f14e1c1-3263-5d3d-ad2d-161a35c14850",
@@ -789,7 +789,7 @@
     "name": "Extra Easy - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/extra-easy-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Extra-Easy-Strong-Blue-Fullfront_346x498.jpg?v=1606315290"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Extra-Easy-Strong-Blue-Fullfront_346x498.jpg?v=1606315290"
   },
   {
     "_id": "dec92bd7-af45-5e19-a62b-11c7f30a5074",
@@ -797,7 +797,7 @@
     "name": "Extra Easy - Dusty Dry",
     "price": 139,
     "link": "https://mudjeans.eu/collections/men/products/extra-easy-dusty-dry",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Extra-Easy-Dsr-Selfedge-Fullfront_346x498.jpg?v=1606315288"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Extra-Easy-Dsr-Selfedge-Fullfront_346x498.jpg?v=1606315288"
   },
   {
     "_id": "8a957742-83d1-5218-b3e4-c661e70d3854",
@@ -805,7 +805,7 @@
     "name": "Slim Lassen - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Strong-Blue-Fullfront_346x498.jpg?v=1606315154"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Strong-Blue-Fullfront_346x498.jpg?v=1606315154"
   },
   {
     "_id": "5432423b-b222-5486-b320-e8d3bb4e8a9c",
@@ -813,7 +813,7 @@
     "name": "Slim Lassen - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Stone-Black-Fullfront_346x498.jpg?v=1606315120"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Stone-Black-Fullfront_346x498.jpg?v=1606315120"
   },
   {
     "_id": "2619a493-0d60-5105-9fd2-a322dfc1c0a5",
@@ -821,7 +821,7 @@
     "name": "Slim Lassen - O3 Grey",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-o3-grey",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-O3-Grey-Fullfront_346x498.jpg?v=1606315191"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-O3-Grey-Fullfront_346x498.jpg?v=1606315191"
   },
   {
     "_id": "2f629913-14f4-55f7-aef4-e0c3fc72d647",
@@ -829,7 +829,7 @@
     "name": "Slim Lassen - Pure Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Pure-Blue-Fullfront_346x498.jpg?v=1606315126"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Pure-Blue-Fullfront_346x498.jpg?v=1606315126"
   },
   {
     "_id": "b7a23fbc-af18-5231-929d-60dcbaf6a954",
@@ -837,7 +837,7 @@
     "name": "Slim Lassen - Dip Dry",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-dip-dry",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Dip-Dry-Fullfront_346x498.jpg?v=1606315172"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Dip-Dry-Fullfront_346x498.jpg?v=1606315172"
   },
   {
     "_id": "7acde8a2-6429-5e34-9396-48a9ba84051d",
@@ -845,7 +845,7 @@
     "name": "Slim Lassen - Sea Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/slim-lassen-sea-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Sea-Stone-Fullfront_346x498.jpg?v=1606315189"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Slim-Lassen-Sea-Stone-Fullfront_346x498.jpg?v=1606315189"
   },
   {
     "_id": "cf074792-9a3a-5a47-b48a-bf84acf5b830",
@@ -853,7 +853,7 @@
     "name": "Relax Fred - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/relax-fred-heavy-stone-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/uni-Sustainable-Jeans-Relaxed-Fred-Heavy-Stone-Fullfront_346x498.jpg?v=1606315028"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/uni-Sustainable-Jeans-Relaxed-Fred-Heavy-Stone-Fullfront_346x498.jpg?v=1606315028"
   },
   {
     "_id": "3dca0598-4f64-508c-af9d-93354988f2b6",
@@ -861,7 +861,7 @@
     "name": "Dunn Chino - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/dunn-chino-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Organic-jeans-Dunn-Chino-Strong-Blue-fullfront-2_835e31e5-5b9d-44dc-906f-8dbd76ec8d71_346x498.jpg?v=1600776026"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Organic-jeans-Dunn-Chino-Strong-Blue-fullfront-2_835e31e5-5b9d-44dc-906f-8dbd76ec8d71_346x498.jpg?v=1600776026"
   },
   {
     "_id": "3904830c-9c84-5cfe-a80c-308e9d0250df",
@@ -869,7 +869,7 @@
     "name": "Redunn Chino - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/redunn-chino-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Undyed-Fullfront_346x498.jpg?v=1606315038"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Undyed-Fullfront_346x498.jpg?v=1606315038"
   },
   {
     "_id": "9fdae3b7-5e5b-5bc7-9c10-a04eae26e3aa",
@@ -877,7 +877,7 @@
     "name": "Redunn Chino - Olive",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/redunn-chino-olive",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Olive-Fullfront_346x498.jpg?v=1606315034"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Olive-Fullfront_346x498.jpg?v=1606315034"
   },
   {
     "_id": "5ce0d63e-20c7-5acc-bc9f-1cc82b95a753",
@@ -885,7 +885,7 @@
     "name": "Redunn Chino - Terra",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/redunn-chino-terra",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Terra-Fullfront_346x498.jpg?v=1606315036"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Sustainable-Jeans-Redunn-Chino-Terra-Fullfront_346x498.jpg?v=1606315036"
   },
   {
     "_id": "9c3d5360-f28e-570c-9538-87e3d455d605",
@@ -893,7 +893,7 @@
     "name": "Will Works - Dip Black W",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/will-works-dip-black-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Dip-Black-Fullfront-Recovered_346x498.jpg?v=1611743566"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Dip-Black-Fullfront-Recovered_346x498.jpg?v=1611743566"
   },
   {
     "_id": "416dc54b-315c-5ef4-969d-b89de7f366dd",
@@ -901,7 +901,7 @@
     "name": "Will Works - Heavy Stone W",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/will-works-heavy-stone-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/will-works-heavy-stone-full-body-unisex-3_346x498.jpg?v=1611743653"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/will-works-heavy-stone-full-body-unisex-3_346x498.jpg?v=1611743653"
   },
   {
     "_id": "0c953e4a-9cdc-52ec-85d2-cbc52771633c",
@@ -909,7 +909,7 @@
     "name": "Will Works - Olive",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/will-works-olive",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Will-Works-Olive-Fullfront-1_346x498.jpg?v=1611743717"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Will-Works-Olive-Fullfront-1_346x498.jpg?v=1611743717"
   },
   {
     "_id": "0c4377e0-92f5-55c7-a12d-c8a45df2dad7",
@@ -917,7 +917,7 @@
     "name": "Will Works - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/will-works-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Undyed-Fullfront_346x498.jpg?v=1611743779"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Undyed-Fullfront_346x498.jpg?v=1611743779"
   },
   {
     "_id": "1d82d7a5-d94b-598f-a48f-94963fa1ea51",
@@ -925,7 +925,7 @@
     "name": "Irwin Dungaree - Whale Blue",
     "price": 149,
     "link": "https://mudjeans.eu/collections/men/products/irwin-dungaree-whale-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Women-Organic-Dungaree-Irwine-Whale-Blue-fullfront_bf00eda9-ef26-4dd0-a0a6-ff795cc362b2_346x498.jpg?v=1600776858"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Women-Organic-Dungaree-Irwine-Whale-Blue-fullfront_bf00eda9-ef26-4dd0-a0a6-ff795cc362b2_346x498.jpg?v=1600776858"
   },
   {
     "_id": "a3c3a6bb-2eb9-5491-8212-cc0b08a85d0e",
@@ -933,7 +933,7 @@
     "name": "Luca Short - Undyed",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/luca-short-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Undyed-Fullfront-1_346x498.jpg?v=1611739475"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Undyed-Fullfront-1_346x498.jpg?v=1611739475"
   },
   {
     "_id": "a2f6d9ef-47c7-587c-99e7-6aeb4c88e086",
@@ -941,7 +941,7 @@
     "name": "Luca Short - Terra",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/luca-short-terra",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Terra-Fullfront_346x498.jpg?v=1611739388"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Terra-Fullfront_346x498.jpg?v=1611739388"
   },
   {
     "_id": "8a7026c2-064e-5948-aef2-b2fa3990db28",
@@ -949,7 +949,7 @@
     "name": "Luca Short - Olive",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/luca-short-olive",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Olive-Fullfront_346x498.jpg?v=1611739279"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Eco-Jeans-Luca-Short-Olive-Fullfront_346x498.jpg?v=1611739279"
   },
   {
     "_id": "2fced356-fa30-527c-9a97-2e92d2ab078a",
@@ -957,7 +957,7 @@
     "name": "Simon Short - Pure Blue",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/simon-short-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Simon-Short-Pure-Blue-Fullfront_346x498.jpg?v=1606315010"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Men-Ethical-Jeans-Simon-Short-Pure-Blue-Fullfront_346x498.jpg?v=1606315010"
   },
   {
     "_id": "14e71306-fd09-51aa-8bcb-45c5619851f1",
@@ -965,7 +965,7 @@
     "name": "Simon Short - O3 Grey",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/simon-short-o3-grey",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Ethical-Jeans-Simon-Shorts-O3-Blue-Grey-Front_346x498.jpg?v=1599749321"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Ethical-Jeans-Simon-Shorts-O3-Blue-Grey-Front_346x498.jpg?v=1599749321"
   },
   {
     "_id": "5a1e3416-c996-5bb1-9ba0-8a1789f3a39e",
@@ -973,7 +973,7 @@
     "name": "Louie Short - Pure Blue",
     "price": 89,
     "link": "https://mudjeans.eu/collections/men/products/louie-short-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Ethical-Jeans-Louie-Shorts-Pure-blue-front_346x498.jpg?v=1599749315"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Man-Ethical-Jeans-Louie-Shorts-Pure-blue-front_346x498.jpg?v=1599749315"
   },
   {
     "_id": "5749cce1-dbb7-5668-a16b-421463c8a2e1",
@@ -981,7 +981,7 @@
     "name": "Tyler Jacket - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/tyler-jacket-heavy-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jackets-Tyler-Jacket-Heavy-Stone-Fullfront-Recovered_346x498.jpg?v=1606314989"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jackets-Tyler-Jacket-Heavy-Stone-Fullfront-Recovered_346x498.jpg?v=1606314989"
   },
   {
     "_id": "8e8df9ea-362a-5a41-8d6d-77362d6e1d85",
@@ -989,7 +989,7 @@
     "name": "Tyler Jacket - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/tyler-jacket-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Tyler-Jacket-Strong-Blue-Fullfront_346x498.jpg?v=1606315146"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jackets-Tyler-Jacket-Strong-Blue-Fullfront-Recovered_346x498.jpg?v=1616402388"
   },
   {
     "_id": "ec57c032-cea2-5c98-8f86-d8b3b70cddb1",
@@ -997,7 +997,7 @@
     "name": "Alex Parker - Whale Blue",
     "price": 149,
     "link": "https://mudjeans.eu/collections/men/products/alex-parker-whale-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Sustainable-Parker-Alex-whale-blue-fullfront_9abe8fc5-8f78-49a7-90fb-811146e0c5a8_346x498.jpg?v=1600777164"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Sustainable-Parker-Alex-whale-blue-fullfront_9abe8fc5-8f78-49a7-90fb-811146e0c5a8_346x498.jpg?v=1600777164"
   },
   {
     "_id": "574d049c-a170-5364-a380-5d95053870b1",
@@ -1005,7 +1005,7 @@
     "name": "Alex Parker - Dip Black",
     "price": 149,
     "link": "https://mudjeans.eu/collections/men/products/alex-parker-dip-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Sustainable-Parker-Alex-dip-black-fullfront_b899c34c-82bd-4c87-a632-5ec242c12b36_346x498.jpg?v=1600777190"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Sustainable-Parker-Alex-dip-black-fullfront_b899c34c-82bd-4c87-a632-5ec242c12b36_346x498.jpg?v=1600777190"
   },
   {
     "_id": "ea75b5f9-9c6a-52df-8499-1428dc8929ea",
@@ -1013,7 +1013,7 @@
     "name": "Jodi Jacket - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/men/products/jodi-jacket-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jackets-Tyler-Jacket-Undyed-Fullfront-Recovered_346x498.jpg?v=1606315102"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jackets-Tyler-Jacket-Undyed-Fullfront-Recovered_346x498.jpg?v=1606315102"
   },
   {
     "_id": "01fa2778-ca11-5a13-b5dc-669cccc7c154",
@@ -1021,7 +1021,7 @@
     "name": "Toto bag",
     "price": 29,
     "link": "https://mudjeans.eu/collections/men/products/toto-bag",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/tote-Fullbodywomen-6_346x498.jpg?v=1606315286"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/tote-Fullbodywomen-6_346x498.jpg?v=1606315286"
   },
   {
     "_id": "89666237-80e1-5532-aa0b-8c0e5ebe500a",
@@ -3424,35 +3424,35 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4552_85982e845e-block-bike_stockholm-ded-standard.jpg"
   },
   {
-    "_id": "d9839e8e-e470-5a0d-bf0b-b5b48ab48ddf",
+    "_id": "b410f022-0599-5d8f-acfc-9bcaca7494d4",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-multi-color",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-multi-color",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5870_b7204669d1-3-pack_4-ded-standard.jpg"
   },
   {
-    "_id": "0778f340-c15e-552a-a140-1494975de7c1",
+    "_id": "598ea3d5-425c-55d0-8e6b-f1c35758fd9a",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-white-black",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-white-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5869_69032ffd49-3-pack_3-ded-standard.jpg"
   },
   {
-    "_id": "8e1220be-02dc-5201-b86a-9f19061d0014",
+    "_id": "a16c935d-6d23-52a4-a428-7f139a50cea0",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-white",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5868_c730d0267d-3-pack_-ded-standard.jpg"
   },
   {
-    "_id": "f4861193-89a2-5cf8-8f51-2e6467ffd09f",
+    "_id": "678384c9-20bd-5151-9e1a-382984501eb8",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5867_f5eb91ca3e-3-pack_2-ded-standard.jpg"
   },
   {
@@ -3520,6 +3520,14 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5893_af55ad3448-dedicated-3765-ded-standard.jpg"
   },
   {
+    "_id": "d8802fb0-4581-5dcb-8a81-d2f9aae6887d",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Grey Melange",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-grey-melange",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6120_e3e68b8f6d-dedicated_300620-2901-ded-standard.jpg"
+  },
+  {
     "_id": "d570aa55-d22c-5d65-922b-9db913561b90",
     "brand": "dedicated",
     "name": "Hoodie Falun Dedicated Logo Pale Red",
@@ -3528,36 +3536,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6264_9e1c2cc5da-dedicated_300620-2955-ded-standard.jpg"
   },
   {
-    "_id": "0750da3a-1262-5d71-b838-15f6e6baee9f",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Pale Red",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-pale-red",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6265_7a4371be92-dedicated-3439-ded-standard.jpg"
-  },
-  {
     "_id": "3f2522d1-cd2e-5176-ba21-f83c847914ad",
     "brand": "dedicated",
     "name": "Sweatshirt Malmoe Dedicated Logo Pale Red",
     "price": 59.95,
     "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-dedicated-logo-pale-red",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6266_c94d6911d4-dedicated-3535-ded-standard.jpg"
-  },
-  {
-    "_id": "f3704d63-34b2-591b-8ac3-2b7a537a4126",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Yellow",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6313_ad9e7b441b-dedicated-3705-ded-standard.jpg"
-  },
-  {
-    "_id": "df9f9618-94df-5a17-b5ad-79c82d01da66",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Mint",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-mint",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6328_3d1cb85cc3-dedicated-3472-ded-standard.jpg"
   },
   {
     "_id": "97f719ff-760e-5266-904d-a07084848d53",
@@ -3576,12 +3560,28 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6362_5a8bf48439-dedicated-4499-ded-standard.jpg"
   },
   {
-    "_id": "d8802fb0-4581-5dcb-8a81-d2f9aae6887d",
+    "_id": "f3704d63-34b2-591b-8ac3-2b7a537a4126",
     "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Grey Melange",
+    "name": "Sweatshirt Malmoe Base Yellow",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-grey-melange",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6120_e3e68b8f6d-dedicated_300620-2901-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6313_ad9e7b441b-dedicated-3705-ded-standard.jpg"
+  },
+  {
+    "_id": "df9f9618-94df-5a17-b5ad-79c82d01da66",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Mint",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-mint",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6328_3d1cb85cc3-dedicated-3472-ded-standard.jpg"
+  },
+  {
+    "_id": "0750da3a-1262-5d71-b838-15f6e6baee9f",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Pale Red",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-pale-red",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6265_7a4371be92-dedicated-3439-ded-standard.jpg"
   },
   {
     "_id": "bf722747-db09-5d17-9a74-73b34312564a",
@@ -3807,20 +3807,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6267_347f5009cc-dedicated_300620-3021-ded-standard.jpg"
   },
   {
-    "_id": "7c6ba520-0193-5460-8fcd-3a69660da374",
+    "_id": "8fa1edc0-5902-5373-b507-c23566d65a17",
     "brand": "dedicated",
-    "name": "Hoodie Falun Tie Dye Blue",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/hoodies/hoodie-falun-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6215_d6ef986fdc-aw_ss_21_carryovers_28517-ded-standard.jpg"
-  },
-  {
-    "_id": "b0fd5c15-3d2b-5e49-bf9e-083110679c9f",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Tie Dye Blue",
+    "name": "Sweatshirt Malmoe Local Planet Grey Melange",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5995_090545cebd-dedicated_300620-2576-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/news/sweatshirt-malmoe-local-planet-grey-melange",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6121_f312fa2000-dedicated_300620-3383-ded-standard.jpg"
   },
   {
     "_id": "fdfef2b6-503a-56f6-8065-14353602a67f",
@@ -3839,12 +3831,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5894_8acebb4d93-dedicated_300620-2733-ded-standard.jpg"
   },
   {
-    "_id": "8fa1edc0-5902-5373-b507-c23566d65a17",
+    "_id": "7c6ba520-0193-5460-8fcd-3a69660da374",
     "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Local Planet Grey Melange",
+    "name": "Hoodie Falun Tie Dye Blue",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/hoodies/hoodie-falun-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6215_d6ef986fdc-aw_ss_21_carryovers_28517-ded-standard.jpg"
+  },
+  {
+    "_id": "b0fd5c15-3d2b-5e49-bf9e-083110679c9f",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Tie Dye Blue",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/news/sweatshirt-malmoe-local-planet-grey-melange",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6121_f312fa2000-dedicated_300620-3383-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5995_090545cebd-dedicated_300620-2576-ded-standard.jpg"
   },
   {
     "_id": "bd1b006c-67e2-5450-a8fb-4307674d6a37",
@@ -4431,22 +4431,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5596_3b959f4772-saturday_11829-ded-standard.jpg"
   },
   {
-    "_id": "c15480b2-8123-5404-b367-cef65edd9fb4",
-    "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Leopard Light Brown",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-leopard-light-brown",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6054_1a5cdc1daa-dedicated_300720-7400-ded-standard.jpg"
-  },
-  {
-    "_id": "324d23ad-5125-5119-a73f-d68ce86c0f17",
-    "brand": "dedicated",
-    "name": "Shirt Edsbyn Golden Yellow",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-edsbyn-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6084_5efd464408-dedicated_300720-7617-ded-standard.jpg"
-  },
-  {
     "_id": "fbd50743-f02a-56d9-9695-4be438080806",
     "brand": "dedicated",
     "name": "Shirt Short Sleeve Sandefjord Dobby Navy",
@@ -4461,6 +4445,38 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-sandefjord-dobby-off-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6407_ba1aff2a89-dedicated_300720-7575-ded-standard.jpg"
+  },
+  {
+    "_id": "d7cfd30d-1b17-5b56-af3b-658594d71cc5",
+    "brand": "dedicated",
+    "name": "Shirt Varberg Navy",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-navy",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5984_eeceff6a3c-dedicated-4785-ded-standard.jpg"
+  },
+  {
+    "_id": "5342c2b4-75f2-55b8-b740-30293c387400",
+    "brand": "dedicated",
+    "name": "Shirt Varberg Dobby Off-White",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-dobby-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6246_95a8f674a2-dedicated-3226-ded-standard.jpg"
+  },
+  {
+    "_id": "7656c702-f014-59d7-8e49-78e631ed2e13",
+    "brand": "dedicated",
+    "name": "Shirt Short Sleeve Marstrand Flying Hummingbirds Multi Color",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-flying-hummingbirds-multi-color",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6187_a39551df6d-dedicated1462-ded-standard.jpg"
+  },
+  {
+    "_id": "c15480b2-8123-5404-b367-cef65edd9fb4",
+    "brand": "dedicated",
+    "name": "Shirt Short Sleeve Marstrand Leopard Light Brown",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-leopard-light-brown",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6054_1a5cdc1daa-dedicated_300720-7400-ded-standard.jpg"
   },
   {
     "_id": "662cfbc8-bddf-5722-821e-b6ed8712263b",
@@ -4479,20 +4495,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6247_786e418c60-aw_ss_21_carryovers_30681-ded-standard.jpg"
   },
   {
-    "_id": "7656c702-f014-59d7-8e49-78e631ed2e13",
+    "_id": "324d23ad-5125-5119-a73f-d68ce86c0f17",
     "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Flying Hummingbirds Multi Color",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-flying-hummingbirds-multi-color",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6187_a39551df6d-dedicated1462-ded-standard.jpg"
-  },
-  {
-    "_id": "0e52a737-8162-5540-a8b9-d3ef3df46333",
-    "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Peanuts AOP Off-White",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-peanuts-aop-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6188_4ef7e38436-dedicated1194-ded-standard.jpg"
+    "name": "Shirt Edsbyn Golden Yellow",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-edsbyn-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6084_5efd464408-dedicated_300720-7617-ded-standard.jpg"
   },
   {
     "_id": "c9ef5706-2694-590d-aae5-c0b5d8d35dcb",
@@ -4503,20 +4511,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6190_3f8016b8b3-dedicated1502-ded-standard.jpg"
   },
   {
-    "_id": "d7cfd30d-1b17-5b56-af3b-658594d71cc5",
+    "_id": "0e52a737-8162-5540-a8b9-d3ef3df46333",
     "brand": "dedicated",
-    "name": "Shirt Varberg Navy",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-navy",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5984_eeceff6a3c-dedicated-4785-ded-standard.jpg"
-  },
-  {
-    "_id": "5342c2b4-75f2-55b8-b740-30293c387400",
-    "brand": "dedicated",
-    "name": "Shirt Varberg Dobby Off-White",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-dobby-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6246_95a8f674a2-dedicated-3226-ded-standard.jpg"
+    "name": "Shirt Short Sleeve Marstrand Peanuts AOP Off-White",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-peanuts-aop-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6188_4ef7e38436-dedicated1194-ded-standard.jpg"
   },
   {
     "_id": "1a51eec7-ec5c-58b7-bd25-32bc16899c1d",
@@ -4687,68 +4687,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5133_95357c6375-aw_ss_21_carryovers_31634-ded-standard.jpg"
   },
   {
-    "_id": "e269e171-b4a5-56f9-8c0f-5576bb899808",
+    "_id": "6d27a686-dcfc-5b76-b604-4976b2769e64",
     "brand": "dedicated",
-    "name": "Chino Shorts Nacka Black",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chino-shorts-nacka-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5925_6130b1d3ba-dedicated_300720-8396-ded-standard.jpg"
-  },
-  {
-    "_id": "01515cb5-c4aa-5ee9-933c-a83000369863",
-    "brand": "dedicated",
-    "name": "Shorts Kungsbacka Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-kungsbacka-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5942_d7351b36b2-dedicated_300720-8283-ded-standard.jpg"
-  },
-  {
-    "_id": "4bd4e8b6-7bac-520e-aa33-7e707d987f1f",
-    "brand": "dedicated",
-    "name": "Shorts Vejle Black",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6409_134d23aefa-dedicated_300720-8216-ded-standard.jpg"
-  },
-  {
-    "_id": "45e766e3-46ca-5591-80e6-cc3f6d491cc8",
-    "brand": "dedicated",
-    "name": "Pants Klitmoeller Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6408_c6b60d090c-aw_ss_21_carryovers_27861-ded-standard.jpg"
-  },
-  {
-    "_id": "4aa72ae7-903b-5c6c-b142-fdbcdc5ddbe2",
-    "brand": "dedicated",
-    "name": "Pants Lerum Olive Green",
+    "name": "Pants Kinna Black",
     "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-lerum-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6410_12659f3dc4-aw_ss_21_carryovers_27027-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/news/pants-kinna-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5839_839da2b5d2-aw_ss_21_carryovers_26854-ded-standard.jpg"
   },
   {
-    "_id": "77c76cd4-bd97-527a-9127-9de926e570fc",
+    "_id": "659ae1f8-6481-5434-8e03-c90508fc05c9",
     "brand": "dedicated",
-    "name": "Chino Shorts Nacka Olive Green",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/chino-shorts-nacka-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6154_949f7ab6e3-aw_ss_21_carryovers_27169-ded-standard.jpg"
-  },
-  {
-    "_id": "9c0bece0-8143-5b40-b4d3-c8b1c1a5875c",
-    "brand": "dedicated",
-    "name": "Joggers Lund Peanuts AOP Multi Color",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-peanuts-aop-multi-color",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6161_34234eaa9e-dedicated3009-ded-standard.jpg"
-  },
-  {
-    "_id": "922f0d77-672b-5eb8-8834-26c1dc40e5ea",
-    "brand": "dedicated",
-    "name": "Chinos Sundsvall Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chinos-sundsvall-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5926_d6cf86ccb2-dedicated-studio-day-225924-ded-standard.jpg"
+    "name": "Pants Kinna Leaf Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants-kinna-leaf-green-leaf_-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5840_8eebb13631-dedicated-studio-day-226034-ded-standard.jpg"
   },
   {
     "_id": "228d74a7-f84c-58d5-9eeb-659edcae26a7",
@@ -4767,12 +4719,60 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6155_5e556b0b0d-dedicated_300720-7933-ded-standard.jpg"
   },
   {
-    "_id": "4c9326d1-41ff-57bd-aed1-d77a5212fc94",
+    "_id": "e269e171-b4a5-56f9-8c0f-5576bb899808",
     "brand": "dedicated",
-    "name": "Joggers Lund Tie Dye Blue",
+    "name": "Chino Shorts Nacka Black",
     "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5994_6293e7a532-dedicated2894-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chino-shorts-nacka-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5925_6130b1d3ba-dedicated_300720-8396-ded-standard.jpg"
+  },
+  {
+    "_id": "77c76cd4-bd97-527a-9127-9de926e570fc",
+    "brand": "dedicated",
+    "name": "Chino Shorts Nacka Olive Green",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/chino-shorts-nacka-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6154_949f7ab6e3-aw_ss_21_carryovers_27169-ded-standard.jpg"
+  },
+  {
+    "_id": "45e766e3-46ca-5591-80e6-cc3f6d491cc8",
+    "brand": "dedicated",
+    "name": "Pants Klitmoeller Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6408_c6b60d090c-aw_ss_21_carryovers_27861-ded-standard.jpg"
+  },
+  {
+    "_id": "4aa72ae7-903b-5c6c-b142-fdbcdc5ddbe2",
+    "brand": "dedicated",
+    "name": "Pants Lerum Olive Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-lerum-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6410_12659f3dc4-aw_ss_21_carryovers_27027-ded-standard.jpg"
+  },
+  {
+    "_id": "01515cb5-c4aa-5ee9-933c-a83000369863",
+    "brand": "dedicated",
+    "name": "Shorts Kungsbacka Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-kungsbacka-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5942_d7351b36b2-dedicated_300720-8283-ded-standard.jpg"
+  },
+  {
+    "_id": "4bd4e8b6-7bac-520e-aa33-7e707d987f1f",
+    "brand": "dedicated",
+    "name": "Shorts Vejle Black",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6409_134d23aefa-dedicated_300720-8216-ded-standard.jpg"
+  },
+  {
+    "_id": "9c0bece0-8143-5b40-b4d3-c8b1c1a5875c",
+    "brand": "dedicated",
+    "name": "Joggers Lund Peanuts AOP Multi Color",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-peanuts-aop-multi-color",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6161_34234eaa9e-dedicated3009-ded-standard.jpg"
   },
   {
     "_id": "e0e98d65-27ce-5821-a958-6d06136c0e20",
@@ -4783,20 +4783,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6216_9b3619eb81-dedicated2981-ded-standard.jpg"
   },
   {
-    "_id": "21786375-bb2b-587c-84bd-e534fbde8141",
+    "_id": "922f0d77-672b-5eb8-8834-26c1dc40e5ea",
     "brand": "dedicated",
-    "name": "Pants Kinna Leaf Green",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-kinna-leaf-green-leaf_-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5840_8eebb13631-dedicated-studio-day-226034-ded-standard.jpg"
+    "name": "Chinos Sundsvall Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chinos-sundsvall-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5926_d6cf86ccb2-dedicated-studio-day-225924-ded-standard.jpg"
   },
   {
-    "_id": "6d27a686-dcfc-5b76-b604-4976b2769e64",
+    "_id": "4c9326d1-41ff-57bd-aed1-d77a5212fc94",
     "brand": "dedicated",
-    "name": "Pants Kinna Black",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/news/pants-kinna-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5839_839da2b5d2-aw_ss_21_carryovers_26854-ded-standard.jpg"
+    "name": "Joggers Lund Tie Dye Blue",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5994_6293e7a532-dedicated2894-ded-standard.jpg"
   },
   {
     "_id": "1d507d0a-a450-5076-8333-ec910fa8e88d",
@@ -4823,11 +4823,19 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5331_6b7a93d6b8-aw_ss_21_carryovers_27989-ded-standard.jpg"
   },
   {
-    "_id": "4e3da228-e2ab-5290-8632-41cd5ad7757e",
+    "_id": "e93b8a09-0837-58e6-aab9-11a46b103d4a",
+    "brand": "dedicated",
+    "name": "Shorts Vejle Thin Stripes",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-thin-stripes",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5149_76dccfe805-aw_ss_21_carryovers_27337-ded-standard.jpg"
+  },
+  {
+    "_id": "9ec1320b-feeb-5fd1-8738-2298b8456364",
     "brand": "dedicated",
     "name": "Pants Klitmoeller Green",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants-klitmoeller-green",
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-green",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5330_e2deb9ce2c-dscf6386-ded-standard.jpg"
   },
   {
@@ -4895,14 +4903,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5485_3c7cf0f589-session-utan-namn4517-ded-standard.jpg"
   },
   {
-    "_id": "e93b8a09-0837-58e6-aab9-11a46b103d4a",
-    "brand": "dedicated",
-    "name": "Shorts Vejle Thin Stripes",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-thin-stripes",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5149_76dccfe805-aw_ss_21_carryovers_27337-ded-standard.jpg"
-  },
-  {
     "_id": "d2f60642-3ee2-587a-90bd-bd589f4e4015",
     "brand": "dedicated",
     "name": "Shorts Vejle Green",
@@ -4959,14 +4959,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4753_9691e1e683-dscf1816-ded-standard.jpg"
   },
   {
-    "_id": "6c04e4cf-1758-5d17-aa9e-8fc13f5f1e7f",
-    "brand": "dedicated",
-    "name": "Jacket Leksand Olive Green",
-    "price": 119.95,
-    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6405_85fdf29d87-dedicated-3765-ded-standard.jpg"
-  },
-  {
     "_id": "e3aa9ef7-d428-5465-9234-c88847aaa5b9",
     "brand": "dedicated",
     "name": "Jacket Hoddevik Beige",
@@ -4981,6 +4973,22 @@
     "price": 199.95,
     "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-hoddevik-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5478_edfdb316d1-dedicated-5167-ded-standard.jpg"
+  },
+  {
+    "_id": "6c04e4cf-1758-5d17-aa9e-8fc13f5f1e7f",
+    "brand": "dedicated",
+    "name": "Jacket Leksand Olive Green",
+    "price": 119.95,
+    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6405_85fdf29d87-dedicated-3765-ded-standard.jpg"
+  },
+  {
+    "_id": "465ec3c7-0de7-5c5f-870c-7a2543aaffb3",
+    "brand": "dedicated",
+    "name": "Jacket Leksand Black",
+    "price": 129.95,
+    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5480_2c5f614731-aw_ss_21_carryovers_30779-ded-standard.jpg"
   },
   {
     "_id": "82f24a2f-780f-5b13-954d-d3cee9c98b45",
@@ -5047,14 +5055,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5481_da574b4719-sunday_14580_2-ded-standard.jpg"
   },
   {
-    "_id": "465ec3c7-0de7-5c5f-870c-7a2543aaffb3",
-    "brand": "dedicated",
-    "name": "Jacket Leksand Black",
-    "price": 129.95,
-    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5480_2c5f614731-aw_ss_21_carryovers_30779-ded-standard.jpg"
-  },
-  {
     "_id": "bcd924e7-467f-5791-8e89-ad4a3b5a6736",
     "brand": "dedicated",
     "name": "Worker Jacket Sala Navy",
@@ -5103,12 +5103,60 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5337_0481a6231f-sunday_ss203561-ded-standard.jpg"
   },
   {
-    "_id": "b761d721-ce5b-50e5-9c63-0539c1de1a6b",
+    "_id": "059a0f37-39cb-540a-82e4-d61c33c0c5b1",
     "brand": "dedicated",
-    "name": "Bucket Hat Peanuts Logo White",
+    "name": "Bucket Hat Dedicated Logo Black",
     "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-peanuts-logo-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6380_2886d04250-dedicated-6480-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5086_4dabbf2d03-dscf6586-ded-standard.jpg"
+  },
+  {
+    "_id": "8a8290c6-41e9-5f81-a6cd-ded44ba2ee23",
+    "brand": "dedicated",
+    "name": "Bucket Hat Dedicated Logo White",
+    "price": 39.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5087_7c704d1b69-dscf6586-ded-standard.jpg"
+  },
+  {
+    "_id": "19e4d913-7cbc-5934-b114-873b133854ac",
+    "brand": "dedicated",
+    "name": "Beanie Narvik Black",
+    "price": 39.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4980_9cc17123d1-dscf2892-ded-standard.jpg"
+  },
+  {
+    "_id": "8abb666f-bc33-5d79-b66c-f9249a423ba3",
+    "brand": "dedicated",
+    "name": "Beanie Narvik Off-White",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4982_73d0358720-dscf2892-ded-standard.jpg"
+  },
+  {
+    "_id": "3648c44b-9786-5660-920c-650ea79b7fa8",
+    "brand": "dedicated",
+    "name": "Sport Cap Globe Black",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-globe-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5900_745e64fdf7-dedicated-5405-ded-standard.jpg"
+  },
+  {
+    "_id": "22e98c51-58e1-502b-8a85-457b61031aca",
+    "brand": "dedicated",
+    "name": "Sport Cap Sunset Palm White",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-sunset-palm-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6381_ccdf203800-dedicated-5125-ded-standard.jpg"
+  },
+  {
+    "_id": "7d622ee6-b009-5d0f-ba9a-66551335a52f",
+    "brand": "dedicated",
+    "name": "Sport Cap Stitch Bike Black",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-stitch-bike-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5903_6c6bd8f16d-dedicated-4396-ded-standard.jpg"
   },
   {
     "_id": "3e2128da-7d12-595b-a16c-ee5927e18ce8",
@@ -5135,36 +5183,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6382_2afd1747b8-dedicated-4542-ded-standard.jpg"
   },
   {
-    "_id": "3648c44b-9786-5660-920c-650ea79b7fa8",
+    "_id": "90323780-70b1-5aab-bf75-c1b0bf9d946a",
     "brand": "dedicated",
-    "name": "Sport Cap Globe Black",
+    "name": "Unconstructed Cap Globe Black",
     "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-globe-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5900_745e64fdf7-dedicated-5405-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/unconstructed-cap-globe-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5904_5226cc5c17-dedicated-4360-ded-standard.jpg"
   },
   {
-    "_id": "22e98c51-58e1-502b-8a85-457b61031aca",
+    "_id": "b761d721-ce5b-50e5-9c63-0539c1de1a6b",
     "brand": "dedicated",
-    "name": "Sport Cap Sunset Palm White",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-sunset-palm-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6381_ccdf203800-dedicated-5125-ded-standard.jpg"
-  },
-  {
-    "_id": "059a0f37-39cb-540a-82e4-d61c33c0c5b1",
-    "brand": "dedicated",
-    "name": "Bucket Hat Dedicated Logo Black",
+    "name": "Bucket Hat Peanuts Logo White",
     "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5086_4dabbf2d03-dscf6586-ded-standard.jpg"
-  },
-  {
-    "_id": "8a8290c6-41e9-5f81-a6cd-ded44ba2ee23",
-    "brand": "dedicated",
-    "name": "Bucket Hat Dedicated Logo White",
-    "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5087_7c704d1b69-dscf6586-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-peanuts-logo-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6380_2886d04250-dedicated-6480-ded-standard.jpg"
   },
   {
     "_id": "572cec46-71ee-5101-9c3c-33ab84169738",
@@ -5175,28 +5207,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6193_f092b221a6-dedicated-4564-ded-standard.jpg"
   },
   {
-    "_id": "90323780-70b1-5aab-bf75-c1b0bf9d946a",
-    "brand": "dedicated",
-    "name": "Unconstructed Cap Globe Black",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/unconstructed-cap-globe-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5904_5226cc5c17-dedicated-4360-ded-standard.jpg"
-  },
-  {
     "_id": "0f2ebf72-cd70-599a-b079-516a21698d3d",
     "brand": "dedicated",
     "name": "Bucket Hat Tie Dye Multi Color",
     "price": 39.95,
     "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-tie-dye-multi-color",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6162_4eb463e317-dedicated-4331-ded-standard.jpg"
-  },
-  {
-    "_id": "7d622ee6-b009-5d0f-ba9a-66551335a52f",
-    "brand": "dedicated",
-    "name": "Sport Cap Stitch Bike Black",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-stitch-bike-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5903_6c6bd8f16d-dedicated-4396-ded-standard.jpg"
   },
   {
     "_id": "b0bf3d91-f314-5778-9d66-3738527a5e8d",
@@ -5247,27 +5263,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5853_bfb22a8eed-golden-yellow_kiruna-ded-standard.jpg"
   },
   {
-    "_id": "abb874fb-7c96-5d41-9395-7a520d84bfbe",
-    "brand": "dedicated",
-    "name": "Beanie Narvik Black",
-    "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4980_9cc17123d1-dscf2892-ded-standard.jpg"
-  },
-  {
-    "_id": "daf16d9e-60a3-5399-9f5f-21cf2d2f3e69",
-    "brand": "dedicated",
-    "name": "Beanie Narvik Off-White",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4982_73d0358720-dscf2892-ded-standard.jpg"
-  },
-  {
-    "_id": "5b534940-f66d-5a4e-9074-c5789ef7d735",
+    "_id": "22fcd1ba-b89a-5c69-8ce8-e4aa8c78e2cc",
     "brand": "dedicated",
     "name": "Beanie Narvik Golden Yellow",
     "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-golden-yellow",
+    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-golden-yellow",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5441_67c6605e3f-narvik-17740-ded-standard.jpg"
   },
   {
@@ -5295,11 +5295,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4977_79ae430ffa-2-ded-standard.jpg"
   },
   {
-    "_id": "86abc5aa-5f6e-5467-bd92-2d6c1c95d98d",
+    "_id": "85e4f21e-4bbc-5a72-a462-b44a56c43b60",
     "brand": "dedicated",
     "name": "Scarf Knitted Rosse Big Check",
     "price": 49.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/scarf-knitted-rosse-big-check",
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/scarf-knitted-rosse-big-check",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5541_850dfcd2e5-big-check-17840-ded-standard.jpg"
   },
   {
@@ -6319,22 +6319,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5346_0115f12b74-dedicated_ss201666-ded-standard.jpg"
   },
   {
-    "_id": "56abb623-3668-512a-aa3b-ca368ce60ee3",
-    "brand": "dedicated",
-    "name": "Tote Bag Lycksele Golden Yellow",
-    "price": 29.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6077_634084d3c3-dedicated_300720-8443-ded-standard.jpg"
-  },
-  {
-    "_id": "69a349af-4d2e-5ba2-83fb-7949d02d0b45",
-    "brand": "dedicated",
-    "name": "Tote Bag Lycksele Black",
-    "price": 29.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5928_652bd7231a-aw_21_dedicated_dec9_25262-ded-standard.jpg"
-  },
-  {
     "_id": "937bfb4f-c34e-57ae-b1e4-9759ca848398",
     "brand": "dedicated",
     "name": "Tote Bag Torekov Save The Bees Off-White",
@@ -6359,14 +6343,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6242_2da7e0d73c-totebag6436-ded-standard.jpg"
   },
   {
-    "_id": "3a0ed578-fbb1-5ed1-84d5-009294114e92",
-    "brand": "dedicated",
-    "name": "Tote Bag Torekov Peas And Love Off-White",
-    "price": 9.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-peas-and-love-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6239_a999c4f01a-peas-and-love_18710-ded-standard.jpg"
-  },
-  {
     "_id": "6ff3d834-242f-5e38-9675-cac742d0b6a4",
     "brand": "dedicated",
     "name": "Tote Bag Torekov Local Planet Off-White",
@@ -6383,20 +6359,44 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5929_519698504a-totebag6449-ded-standard.jpg"
   },
   {
-    "_id": "af29814d-7720-5e03-abf2-78f7959e7efc",
-    "brand": "dedicated",
-    "name": "Tote Bag Torekov Love Mother",
-    "price": 9.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-love-mother",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5813_0d0baff4c3-love-mother-18112-ded-standard.jpg"
-  },
-  {
     "_id": "771f5801-7c12-568e-a9a2-e7c0d78b6f81",
     "brand": "dedicated",
     "name": "Tote Bag Torekov All We Have",
     "price": 9.95,
     "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-all-we-have",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5809_869aa51995-totebag6439-ded-standard.jpg"
+  },
+  {
+    "_id": "56abb623-3668-512a-aa3b-ca368ce60ee3",
+    "brand": "dedicated",
+    "name": "Tote Bag Lycksele Golden Yellow",
+    "price": 29.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6077_634084d3c3-dedicated_300720-8443-ded-standard.jpg"
+  },
+  {
+    "_id": "69a349af-4d2e-5ba2-83fb-7949d02d0b45",
+    "brand": "dedicated",
+    "name": "Tote Bag Lycksele Black",
+    "price": 29.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5928_652bd7231a-aw_21_dedicated_dec9_25262-ded-standard.jpg"
+  },
+  {
+    "_id": "3a0ed578-fbb1-5ed1-84d5-009294114e92",
+    "brand": "dedicated",
+    "name": "Tote Bag Torekov Peas And Love Off-White",
+    "price": 9.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-peas-and-love-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6239_a999c4f01a-peas-and-love_18710-ded-standard.jpg"
+  },
+  {
+    "_id": "af29814d-7720-5e03-abf2-78f7959e7efc",
+    "brand": "dedicated",
+    "name": "Tote Bag Torekov Love Mother",
+    "price": 9.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-love-mother",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5813_0d0baff4c3-love-mother-18112-ded-standard.jpg"
   },
   {
     "_id": "95d147ba-112a-501b-bc8f-a1cbed5edba9",
@@ -7567,22 +7567,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5890_1c4f05a6c3-dedicated_300620-2996-ded-standard.jpg"
   },
   {
-    "_id": "191f79fe-3db8-5a5a-8c93-a977bf5f447b",
-    "brand": "dedicated",
-    "name": "Shirt Lima Leaf Green",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/women/news/shirt-lima-leaf-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5554_a108292f19-aw_ss_21_carryovers_29643-ded-standard.jpg"
-  },
-  {
-    "_id": "97d6748f-88b2-5b1c-9b0d-4999e4a0ae30",
-    "brand": "dedicated",
-    "name": "Jumpsuit Hunnebo Black",
-    "price": 119.95,
-    "link": "https://www.dedicatedbrand.com/en/women/news/jumpsuit-hunnebo-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5938_4157b2b109-dedicated_300720-7020-ded-standard.jpg"
-  },
-  {
     "_id": "2bb4dec4-ad7b-5e1d-ba57-26f4ee7b0098",
     "brand": "dedicated",
     "name": "Hoodie Sundborn Base Black",
@@ -7959,6 +7943,22 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5669_f7f4c99ef9-aw_ss_21_carryovers_28607-ded-standard.jpg"
   },
   {
+    "_id": "191f79fe-3db8-5a5a-8c93-a977bf5f447b",
+    "brand": "dedicated",
+    "name": "Shirt Lima Leaf Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/women/news/shirt-lima-leaf-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5554_a108292f19-aw_ss_21_carryovers_29643-ded-standard.jpg"
+  },
+  {
+    "_id": "97d6748f-88b2-5b1c-9b0d-4999e4a0ae30",
+    "brand": "dedicated",
+    "name": "Jumpsuit Hunnebo Black",
+    "price": 119.95,
+    "link": "https://www.dedicatedbrand.com/en/women/news/jumpsuit-hunnebo-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5938_4157b2b109-dedicated_300720-7020-ded-standard.jpg"
+  },
+  {
     "_id": "87e7a4b0-43a1-58bb-b50f-5900912271cc",
     "brand": "dedicated",
     "name": "T-shirt Visby Local Planet Off-White",
@@ -8231,11 +8231,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5793_a55137d846-saturday_10691-ded-standard.jpg"
   },
   {
-    "_id": "1cb6fbb1-c447-5f87-94e4-ae6675a76e64",
+    "_id": "84a06e31-232a-59f2-bda8-3596352b8395",
     "brand": "dedicated",
     "name": "T-shirt Mysen Base White",
     "price": 24.95,
-    "link": "https://www.dedicatedbrand.com/en/women/t-shirts-and-tops/base/t-shirt-mysen-white",
+    "link": "https://www.dedicatedbrand.com/en/women/basics/t-shirt-mysen-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4540_a0ae178cac-dedicated0777-ded-standard.jpg"
   },
   {
@@ -9231,14 +9231,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6068_f7d8abaac0-dedicated_300620-2652-ded-standard.jpg"
   },
   {
-    "_id": "71320c9f-8c34-526c-94e3-332b820f63f0",
-    "brand": "dedicated",
-    "name": "Sweatshirt Lerdala Coral",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-lerdala-coral",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6058_66d54ccde1-dedicated-3884-ded-standard.jpg"
-  },
-  {
     "_id": "4f703305-bb10-5dc7-b94b-30643022fd18",
     "brand": "dedicated",
     "name": "Sweatshirt Ystad Raglan Base Grey Melange",
@@ -9253,6 +9245,14 @@
     "price": 59.95,
     "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-ystad-raglan-base-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5629_2c3004327d-dedicated-3794-ded-standard.jpg"
+  },
+  {
+    "_id": "71320c9f-8c34-526c-94e3-332b820f63f0",
+    "brand": "dedicated",
+    "name": "Sweatshirt Lerdala Coral",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-lerdala-coral",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6058_66d54ccde1-dedicated-3884-ded-standard.jpg"
   },
   {
     "_id": "12ef248a-b438-52c5-bcad-2bd675519459",
@@ -9293,14 +9293,6 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-doghouse-navy",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5951_db85be77c3-dedicated-4248-ded-standard.jpg"
-  },
-  {
-    "_id": "36802a3a-e22d-5558-b97f-b06d969b3bb1",
-    "brand": "dedicated",
-    "name": "Sweatshirt Ystad Raglan Split Golden Yellow",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-split-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5646_eaa45271ee-200220dedicated0797-ded-standard.jpg"
   },
   {
     "_id": "d6db1e9e-8676-58ec-90a9-fccd678f42af",
@@ -9381,6 +9373,14 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-good-and-you",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5638_b99bc08550-sunday_13755-ded-standard.jpg"
+  },
+  {
+    "_id": "36802a3a-e22d-5558-b97f-b06d969b3bb1",
+    "brand": "dedicated",
+    "name": "Sweatshirt Ystad Raglan Split Golden Yellow",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-split-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5646_eaa45271ee-200220dedicated0797-ded-standard.jpg"
   },
   {
     "_id": "50200cd4-1eb1-5370-b705-43e7289b3502",
@@ -12071,6 +12071,30 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5108_2fb803893f-dedicated_ss200641_2-ded-standard.jpg"
   },
   {
+    "_id": "0b0c0532-a222-539f-8545-3c309bc647a7",
+    "brand": "bash",
+    "name": "CIMBA",
+    "price": 90,
+    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-mauve-3664784306054.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw206b1ca4/allImages/H18NEW/1E21CIMB_MAUVE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "dfe2611a-6afa-50e3-a2ba-f6ff1ae34cea",
+    "brand": "bash",
+    "name": "PAZ",
+    "price": 220,
+    "link": "https://ba-sh.com/fr/fr/p/robe-paz-vert-3664784334255.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc9e756cf/allImages/E21/1E21PAZ_VERT_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "1bdd6bbe-7293-5474-853e-25ea82684e17",
+    "brand": "bash",
+    "name": "TERESA",
+    "price": 260,
+    "link": "https://ba-sh.com/fr/fr/p/robe-teresa-vertdeau-3664784342236.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8dcd160f/allImages/E21/1E21TERE_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
     "_id": "a703416a-06e5-5cf0-9169-98c8bf98487b",
     "brand": "bash",
     "name": "PLUME",
@@ -12079,28 +12103,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwfd731261/allImages/E21/1E21PLUM_VERT_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "dbb5e878-fff1-5004-ab50-2a73c0cdfcec",
+    "_id": "56dba361-c594-568a-832a-5921aca0a374",
     "brand": "bash",
-    "name": "JASMINE",
-    "price": 190,
-    "link": "https://ba-sh.com/fr/fr/p/robe-jasmine-ecru-3664784338369.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwde320c57/allImages/E21/1E21JASM_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "d1b5f868-365f-5ee8-9f4d-9d1222b6e64b",
-    "brand": "bash",
-    "name": "TAO",
-    "price": 150,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-tao-ecru-3664784304173.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf13b300a/allImages/E21/1E21TAO_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "5a89c291-cdb9-5409-b245-38603cd87d16",
-    "brand": "bash",
-    "name": "BIRKIN",
-    "price": 160,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-birkin-ecru-3664784334774.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwec2e0cb3/allImages/E21/1E21BIRK_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "TOBIAS",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/top-tobias-vertdeau-3664784338000.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw5422427c/allImages/E21/1E21TOBI_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "30342825-f460-5385-8af1-bbac3bd28ca7",
@@ -12111,6 +12119,14 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw090f00c8/allImages/H18NEW/1E20POSY_VIOLET_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
+    "_id": "5a89c291-cdb9-5409-b245-38603cd87d16",
+    "brand": "bash",
+    "name": "BIRKIN",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-birkin-ecru-3664784334774.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwec2e0cb3/allImages/E21/1E21BIRK_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
     "_id": "044dba4a-a2a7-50c6-9165-fe0f174a4b2e",
     "brand": "bash",
     "name": "SOMA",
@@ -12119,20 +12135,28 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwdacd956f/allImages/E21/1H20SOMA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "5495c748-d91b-5428-9526-c9f5f76ae0d7",
+    "_id": "d1b5f868-365f-5ee8-9f4d-9d1222b6e64b",
     "brand": "bash",
-    "name": "ODETTE",
-    "price": 320,
-    "link": "https://ba-sh.com/fr/fr/p/robe-odette-vertdeau-3664784342151.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe28e3d20/allImages/E21/1E21ODET_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "TAO",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-tao-ecru-3664784304173.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwca1b3b85/allImages/E21/1E21TAO_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "ee730264-79cd-50d3-b1a5-4e2e4d1e4784",
+    "_id": "9b100bbf-1d91-5fb3-9a0e-833e28bdef9f",
     "brand": "bash",
-    "name": "CURIOUS",
-    "price": 180,
-    "link": "https://ba-sh.com/fr/fr/p/pantalon-curious-naturel-3664784203094.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw1e5a524f/allImages/E21/1E20CURI_NATUREL_2.jpg?sw=870&sh=1389&sm=fit"
+    "name": "VOLVER",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/robe-volver-noir-3664784337881.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw7d465001/allImages/E21/1E21VOLV_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "75c20de2-6f81-5cc2-8638-2e4baaacd056",
+    "brand": "bash",
+    "name": "SOPHIE",
+    "price": 240,
+    "link": "https://ba-sh.com/fr/fr/p/robe-sophie-noir-3664784280958.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw70fc0266/allImages/H18NEW/1H20SOPH_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "fe959de4-665b-5c95-a98d-479e92c40b40",
@@ -12151,6 +12175,14 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw258eef5f/allImages/E21/1E21ORIA_PECHE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
+    "_id": "ee730264-79cd-50d3-b1a5-4e2e4d1e4784",
+    "brand": "bash",
+    "name": "CURIOUS",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-curious-naturel-3664784203094.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw1e5a524f/allImages/E21/1E20CURI_NATUREL_2.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
     "_id": "6569b95f-09f2-5310-a63a-93a94805d892",
     "brand": "bash",
     "name": "VALOU",
@@ -12159,60 +12191,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb431fe95/allImages/E21/1E21VALO_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "75c20de2-6f81-5cc2-8638-2e4baaacd056",
+    "_id": "dbb5e878-fff1-5004-ab50-2a73c0cdfcec",
     "brand": "bash",
-    "name": "SOPHIE",
-    "price": 240,
-    "link": "https://ba-sh.com/fr/fr/p/robe-sophie-noir-3664784280958.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw70fc0266/allImages/H18NEW/1H20SOPH_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "a2c81d5b-f88a-5a67-9188-4567a1f5bf75",
-    "brand": "bash",
-    "name": "TAHLIA",
-    "price": 290,
-    "link": "https://ba-sh.com/fr/fr/p/veste-tahlia-noir-3664784330363.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe2c8f22d/allImages/E21/1E21TAHL_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "52b181cd-fd28-5454-8702-088f52334de0",
-    "brand": "bash",
-    "name": "EVAN",
-    "price": 160,
-    "link": "https://ba-sh.com/fr/fr/p/jeans-evan-lightusedblue-3664784338161.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw7b435ef3/allImages/E21/1E21EVAN_LIGHTUSEDBLUE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "e7280eb6-5d3d-5101-bcba-7300a05be482",
-    "brand": "bash",
-    "name": "TYANA",
-    "price": 150,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-tyana-bleuciel-3664784344209.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw726425bd/allImages/E21/1E21TYAN_BLEUCIEL_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "15dac13e-af98-599b-8bb2-2cc6f1e42ea6",
-    "brand": "bash",
-    "name": "VIKA",
-    "price": 220,
-    "link": "https://ba-sh.com/fr/fr/p/robe-vika-noir-3664784328391.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf621b334/allImages/E21/1E21VIKA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "1eaf4b67-1ca3-5772-a327-6e3fb866e71a",
-    "brand": "bash",
-    "name": "ORIANE",
-    "price": 390,
-    "link": "https://ba-sh.com/fr/fr/p/robe-oriane-vertdeau-3664784335375.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5a722f5/allImages/E21/1E21ORIA_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "48f6d9d2-02bd-5fe5-aa24-dc4f293e9df3",
-    "brand": "bash",
-    "name": "OLYMPE",
-    "price": 80,
-    "link": "https://ba-sh.com/fr/fr/p/top-olympe-noir-3664784277477.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9b12cb48/allImages/E21/1H20OLYM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "JASMINE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/robe-jasmine-ecru-3664784338369.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwde320c57/allImages/E21/1E21JASM_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "a9886845-a219-5a17-bd19-00e540a66d42",
@@ -12223,28 +12207,44 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf76aa227/allImages/H18NEW/1H20JUNE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
+    "_id": "48f6d9d2-02bd-5fe5-aa24-dc4f293e9df3",
+    "brand": "bash",
+    "name": "OLYMPE",
+    "price": 80,
+    "link": "https://ba-sh.com/fr/fr/p/top-olympe-noir-3664784277477.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9b12cb48/allImages/E21/1H20OLYM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5495c748-d91b-5428-9526-c9f5f76ae0d7",
+    "brand": "bash",
+    "name": "ODETTE",
+    "price": 320,
+    "link": "https://ba-sh.com/fr/fr/p/robe-odette-vertdeau-3664784342151.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe28e3d20/allImages/E21/1E21ODET_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "1eaf4b67-1ca3-5772-a327-6e3fb866e71a",
+    "brand": "bash",
+    "name": "ORIANE",
+    "price": 390,
+    "link": "https://ba-sh.com/fr/fr/p/robe-oriane-vertdeau-3664784335375.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5a722f5/allImages/E21/1E21ORIA_VERTDEAU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "15dac13e-af98-599b-8bb2-2cc6f1e42ea6",
+    "brand": "bash",
+    "name": "VIKA",
+    "price": 220,
+    "link": "https://ba-sh.com/fr/fr/p/robe-vika-noir-3664784328391.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf621b334/allImages/E21/1E21VIKA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
     "_id": "d745fc3d-bbc8-50d6-b2d6-0485382e70e1",
     "brand": "bash",
     "name": "PALAIA",
     "price": 240,
     "link": "https://ba-sh.com/fr/fr/p/robe-palaia-noir-3664784342274.html",
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw4f166e49/allImages/E21/1E21PALA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "dc709aa5-dcae-5d3e-9f1f-7eea3cb8565e",
-    "brand": "bash",
-    "name": "NORMA",
-    "price": 190,
-    "link": "https://ba-sh.com/fr/fr/p/robe-norma-noir-3664784334415.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2437fd55/allImages/E21/1E21NORM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "37b086f3-ac7f-54b8-98b9-f790ecfe7c8f",
-    "brand": "bash",
-    "name": "BOSSA",
-    "price": 160,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-bossa-ecru-3664784337645.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2468d356/allImages/E21/1E21BOSS_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "cf4307d2-9e3b-5980-b599-855b1073c48f",
@@ -12255,36 +12255,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd6ded35d/allImages/E21/1E21BASH_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "0b0c0532-a222-539f-8545-3c309bc647a7",
+    "_id": "dc709aa5-dcae-5d3e-9f1f-7eea3cb8565e",
     "brand": "bash",
-    "name": "CIMBA",
-    "price": 90,
-    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-mauve-3664784306054.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw206b1ca4/allImages/H18NEW/1E21CIMB_MAUVE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "2e92be8e-cfa8-5f71-9bc6-fac61b6227e3",
-    "brand": "bash",
-    "name": "PANAMA",
-    "price": 170,
-    "link": "https://ba-sh.com/fr/fr/p/blouse-panama-vert-3664784334132.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2dbc5028/allImages/E21/1E21PANA_VERT_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "98012a79-7692-5b41-8e8e-c30342f96e61",
-    "brand": "bash",
-    "name": "CALUSO",
-    "price": 50,
-    "link": "https://ba-sh.com/fr/fr/p/top-caluso-blanc-3664784338208.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw64c734ec/allImages/E21/1E21CALU_BLANC_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "65d3bfa6-508c-595d-8546-964c8d098259",
-    "brand": "bash",
-    "name": "VENUS",
-    "price": 150,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-venus-noir-3664784328315.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw358d84d1/allImages/E21/1E21VENU_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "NORMA",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/robe-norma-noir-3664784334415.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2437fd55/allImages/E21/1E21NORM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "7db32d7b-7836-5fd5-a48f-c2d88d891b03",
@@ -12295,12 +12271,20 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2848aff3/allImages/H18NEW/1H20TOMY_BORDEAUX_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "ffb707ff-af92-5ef4-ba78-8702edbc5b89",
+    "_id": "98012a79-7692-5b41-8e8e-c30342f96e61",
     "brand": "bash",
-    "name": "ORSAY",
-    "price": 180,
-    "link": "https://ba-sh.com/fr/fr/p/pantalon-orsay-marine-3664784335139.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb662806e/allImages/E21/1E21ORSA_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "CALUSO",
+    "price": 50,
+    "link": "https://ba-sh.com/fr/fr/p/top-caluso-blanc-3664784338208.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwaf26c7fd/allImages/E21/1E21CALU_BLANC_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "65d3bfa6-508c-595d-8546-964c8d098259",
+    "brand": "bash",
+    "name": "VENUS",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-venus-noir-3664784328315.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw358d84d1/allImages/E21/1E21VENU_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "7c4ddb8d-d123-57da-8ec2-40a37d8674d6",
@@ -12311,28 +12295,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8a199083/allImages/H18NEW/1E21NEO_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "4a6feff3-8e49-59ae-89fa-370155db70ba",
+    "_id": "ffb707ff-af92-5ef4-ba78-8702edbc5b89",
     "brand": "bash",
-    "name": "SWEET",
-    "price": 230,
-    "link": "https://ba-sh.com/fr/fr/p/robe-sweet-noir-3664784304098.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb00acc44/allImages/E21/1E21SWEE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "9030bffb-5870-5d29-90db-6a02eceb8018",
-    "brand": "bash",
-    "name": "BAHIA",
-    "price": 190,
-    "link": "https://ba-sh.com/fr/fr/p/jupe-bahia-rose-3664784339243.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw19c3828c/allImages/E21/1E21BAHI_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "166eecae-d60c-54f9-a701-227071ac1e9e",
-    "brand": "bash",
-    "name": "MEL",
-    "price": 170,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-mel-noir-3664784324553.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd11e0082/allImages/E21/1E21MEL_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "ORSAY",
+    "price": 180,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-orsay-marine-3664784335139.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb662806e/allImages/E21/1E21ORSA_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "8167f3e6-fceb-5d9a-baf1-49f1d8f828b7",
@@ -12343,12 +12311,36 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa5a8d0d2/allImages/H18NEW/1E21GLOR_OCRE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "79bcc2dd-3c27-5368-a4d2-d2a3b7cf3a2e",
+    "_id": "2fded322-2a8d-5d3c-a43b-d48ebdcc9778",
     "brand": "bash",
-    "name": "PARKER",
+    "name": "ULLIA",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/robe-ullia-noir-3664784286103.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa6bc5af7/allImages/H18NEW/1H20ULLI_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "4a6feff3-8e49-59ae-89fa-370155db70ba",
+    "brand": "bash",
+    "name": "SWEET",
+    "price": 230,
+    "link": "https://ba-sh.com/fr/fr/p/robe-sweet-noir-3664784304098.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb00acc44/allImages/E21/1E21SWEE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "166eecae-d60c-54f9-a701-227071ac1e9e",
+    "brand": "bash",
+    "name": "MEL",
     "price": 170,
-    "link": "https://ba-sh.com/fr/fr/p/pantalon-parker-kaki-3664784337041.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw21ce40a4/allImages/E21/1E21PARK_KAKI_1.jpg?sw=870&sh=1389&sm=fit"
+    "link": "https://ba-sh.com/fr/fr/p/chemise-mel-noir-3664784324553.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd11e0082/allImages/E21/1E21MEL_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "2e92be8e-cfa8-5f71-9bc6-fac61b6227e3",
+    "brand": "bash",
+    "name": "PANAMA",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/blouse-panama-vert-3664784334132.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2dbc5028/allImages/E21/1E21PANA_VERT_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "783d93f5-1b84-5131-bbb2-a58647053049",
@@ -12357,30 +12349,6 @@
     "price": 130,
     "link": "https://ba-sh.com/fr/fr/p/short-david-ecru-3664784333616.html",
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw924867e6/allImages/E21/1E21DAVI_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "7bf177de-9f74-5ab5-b6a0-e228eda4cf79",
-    "brand": "bash",
-    "name": "CIMBA",
-    "price": 90,
-    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-carbone-3664784306016.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwad129c60/allImages/E21/1E21CIMB_CARBONE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "cdc47670-420d-5745-b32a-2d2eefa93ca2",
-    "brand": "bash",
-    "name": "JAKE",
-    "price": 190,
-    "link": "https://ba-sh.com/fr/fr/p/jeans-jake-handbrush-3664784276470.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9d833923/allImages/H18NEW/1H20JAKE_HANDBRUSH_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "131d3021-09bb-5242-8c88-db4812f4c03f",
-    "brand": "bash",
-    "name": "BLAKE",
-    "price": 170,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-blake-rose-3664784339403.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd5f3c223/allImages/E21/1E21BLAK_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "e1fec28d-fbe8-5bf4-9be0-1e93c622300a",
@@ -12399,36 +12367,20 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw6d1fe59d/allImages/E21/1E21DAVI_BLACKSTONE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "2fded322-2a8d-5d3c-a43b-d48ebdcc9778",
+    "_id": "9030bffb-5870-5d29-90db-6a02eceb8018",
     "brand": "bash",
-    "name": "ULLIA",
-    "price": 130,
-    "link": "https://ba-sh.com/fr/fr/p/robe-ullia-noir-3664784286103.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa6bc5af7/allImages/H18NEW/1H20ULLI_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "BAHIA",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/jupe-bahia-rose-3664784339243.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw19c3828c/allImages/E21/1E21BAHI_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "b30155f2-c26a-5f01-828f-216ca4c882c9",
+    "_id": "52b181cd-fd28-5454-8702-088f52334de0",
     "brand": "bash",
-    "name": "MACHA",
-    "price": 260,
-    "link": "https://ba-sh.com/fr/fr/p/robe-macha-marine-3664784344681.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe78d38bb/allImages/E21/1E21MACH_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "43091c5d-6c1a-5503-8af4-50d16cd1bdde",
-    "brand": "bash",
-    "name": "CSELBY",
-    "price": 140,
-    "link": "https://ba-sh.com/fr/fr/p/short-cselby-blackstone-3664784356325.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc90cbc39/allImages/E21/1E21CSEL_BLACKSTONE_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "c9116b9f-9119-5cda-a8e0-301123e62f7f",
-    "brand": "bash",
-    "name": "BEE",
-    "price": 290,
-    "link": "https://ba-sh.com/fr/fr/p/robe-bee-rose-3664784339328.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw15eb242c/allImages/E21/1E21BEE_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "EVAN",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/jeans-evan-lightusedblue-3664784338161.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw18d1e64d/allImages/E21/1E21EVAN_LIGHTUSEDBLUE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "9137bdb5-93af-5dd0-aaf0-66136fb0f66f",
@@ -12439,20 +12391,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwa9496e67/allImages/E21/1E21MUSE_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "a1f277ec-3a3b-5e60-b239-57f8f7e331d7",
+    "_id": "131d3021-09bb-5242-8c88-db4812f4c03f",
     "brand": "bash",
-    "name": "JOSH",
-    "price": 130,
-    "link": "https://ba-sh.com/fr/fr/p/short-josh-ciel-3664784334019.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf064c380/allImages/E21/1E21JOSH_CIEL_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "683e4e97-28a7-502a-a84f-13a96b283564",
-    "brand": "bash",
-    "name": "FIGUE",
-    "price": 115,
-    "link": "https://ba-sh.com/fr/fr/p/debardeur-figue-bleunuit-3664784343769.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw78279c9f/allImages/E21/1E21FIGU_BLEUNUIT_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "BLAKE",
+    "price": 170,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-blake-rose-3664784339403.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwd5f3c223/allImages/E21/1E21BLAK_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "76812391-3685-52a2-b0b6-641c22b8a060",
@@ -12463,14 +12407,6 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw3cb658a1/allImages/E21/1E21ATHE_ROUGE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "5acd4a8f-cb9a-5207-a1ef-bc36b45a6e7e",
-    "brand": "bash",
-    "name": "EZRA",
-    "price": 280,
-    "link": "https://ba-sh.com/fr/fr/p/robe-ezra-noir-3664784301899.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9ea12d9d/allImages/E21/1E21EZRA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
     "_id": "3e7a364a-bff7-5040-a9fa-9e57935ab309",
     "brand": "bash",
     "name": "CANDICE",
@@ -12479,20 +12415,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf5782a97/allImages/E21/1E21CAND_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "36819754-5d27-5c12-98ed-79683d4a1e7b",
+    "_id": "7bf177de-9f74-5ab5-b6a0-e228eda4cf79",
     "brand": "bash",
-    "name": "CLAIRE",
-    "price": 180,
-    "link": "https://ba-sh.com/fr/fr/p/pull-claire-ecru-3664784334736.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8d7359e2/allImages/E21/1E21CLAI_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "2768fd12-56d4-5d4d-aa04-5b073c3d9aef",
-    "brand": "bash",
-    "name": "COMY",
-    "price": 350,
-    "link": "https://ba-sh.com/fr/fr/p/bottines-comy-noir-3664784274728.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw4b7653fc/allImages/E21/2H20COMY_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "CIMBA",
+    "price": 90,
+    "link": "https://ba-sh.com/fr/fr/p/tshirt-cimba-carbone-3664784306016.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwad129c60/allImages/E21/1E21CIMB_CARBONE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "77fea5e7-1be4-579a-82b6-2025f3e63a2a",
@@ -12503,28 +12431,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw669bdf64/allImages/E21/1E21CLEA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "5fb8cecd-8e2d-55bd-9370-204a64d672fb",
+    "_id": "c9116b9f-9119-5cda-a8e0-301123e62f7f",
     "brand": "bash",
-    "name": "ALIA",
-    "price": 150,
-    "link": "https://ba-sh.com/fr/fr/p/chemise-alia-ecru-3664784300410.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8e02649e/allImages/H18NEW/1E21ALIA_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "0351ee25-2653-5770-993d-5923689c404d",
-    "brand": "bash",
-    "name": "WILL",
-    "price": 210,
-    "link": "https://ba-sh.com/fr/fr/p/top-will-ecru-3664784350705.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2d31d9ab/allImages/E21/1E21WILL_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
-  },
-  {
-    "_id": "e99b8b96-fdf9-5ee7-93e0-a87ceec58da0",
-    "brand": "bash",
-    "name": "BRAVE",
-    "price": 190,
-    "link": "https://ba-sh.com/fr/fr/p/pantalon-brave-noir-3664784329923.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb564e91a/allImages/E21/1E21BRAV_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "BEE",
+    "price": 290,
+    "link": "https://ba-sh.com/fr/fr/p/robe-bee-rose-3664784339328.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw15eb242c/allImages/E21/1E21BEE_ROSE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "0d7e258b-d2ff-5c34-a7d6-a2387cb0e068",
@@ -12535,6 +12447,94 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw27f36c5e/allImages/E21/1E21GALI_OCRE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
+    "_id": "5acd4a8f-cb9a-5207-a1ef-bc36b45a6e7e",
+    "brand": "bash",
+    "name": "EZRA",
+    "price": 280,
+    "link": "https://ba-sh.com/fr/fr/p/robe-ezra-noir-3664784301899.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9ea12d9d/allImages/E21/1E21EZRA_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "5fb8cecd-8e2d-55bd-9370-204a64d672fb",
+    "brand": "bash",
+    "name": "ALIA",
+    "price": 150,
+    "link": "https://ba-sh.com/fr/fr/p/chemise-alia-ecru-3664784300410.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw8e02649e/allImages/H18NEW/1E21ALIA_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "2768fd12-56d4-5d4d-aa04-5b073c3d9aef",
+    "brand": "bash",
+    "name": "COMY",
+    "price": 350,
+    "link": "https://ba-sh.com/fr/fr/p/bottines-comy-noir-3664784274728.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw4b7653fc/allImages/E21/2H20COMY_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "43091c5d-6c1a-5503-8af4-50d16cd1bdde",
+    "brand": "bash",
+    "name": "CSELBY",
+    "price": 140,
+    "link": "https://ba-sh.com/fr/fr/p/short-cselby-blackstone-3664784356325.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc90cbc39/allImages/E21/1E21CSEL_BLACKSTONE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "683e4e97-28a7-502a-a84f-13a96b283564",
+    "brand": "bash",
+    "name": "FIGUE",
+    "price": 115,
+    "link": "https://ba-sh.com/fr/fr/p/debardeur-figue-bleunuit-3664784343769.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw78279c9f/allImages/E21/1E21FIGU_BLEUNUIT_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "cdc47670-420d-5745-b32a-2d2eefa93ca2",
+    "brand": "bash",
+    "name": "JAKE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/jeans-jake-handbrush-3664784276470.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw9d833923/allImages/H18NEW/1H20JAKE_HANDBRUSH_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "a1f277ec-3a3b-5e60-b239-57f8f7e331d7",
+    "brand": "bash",
+    "name": "JOSH",
+    "price": 130,
+    "link": "https://ba-sh.com/fr/fr/p/short-josh-ciel-3664784334019.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwf064c380/allImages/E21/1E21JOSH_CIEL_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "b30155f2-c26a-5f01-828f-216ca4c882c9",
+    "brand": "bash",
+    "name": "MACHA",
+    "price": 260,
+    "link": "https://ba-sh.com/fr/fr/p/robe-macha-marine-3664784344681.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe78d38bb/allImages/E21/1E21MACH_MARINE_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "0351ee25-2653-5770-993d-5923689c404d",
+    "brand": "bash",
+    "name": "WILL",
+    "price": 210,
+    "link": "https://ba-sh.com/fr/fr/p/top-will-ecru-3664784350705.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw2d31d9ab/allImages/E21/1E21WILL_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "064801fd-aae4-53c5-ab8d-78f305900d60",
+    "brand": "bash",
+    "name": "ULTRA",
+    "price": 160,
+    "link": "https://ba-sh.com/fr/fr/p/blouse-ultra-ecru-3664784300298.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dw111a4cd5/allImages/E21/1E21ULTR_ECRU_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
+    "_id": "3ecaf5ef-4dc4-58a4-98e5-ace084012f58",
+    "brand": "bash",
+    "name": "ERYM",
+    "price": 280,
+    "link": "https://ba-sh.com/fr/fr/p/robe-erym-noir-3664784301851.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwe4854ed1/allImages/E21/1E21ERYM_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
+  },
+  {
     "_id": "0a160262-381d-56fd-8c32-a73be1020f7b",
     "brand": "bash",
     "name": "ALICANTE",
@@ -12543,12 +12543,12 @@
     "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwc6b1bb18/allImages/H18NEW/1E21ALIC_ROUGE_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
-    "_id": "7ba557fb-2a87-5b61-ade9-8be7cdaa178e",
+    "_id": "e99b8b96-fdf9-5ee7-93e0-a87ceec58da0",
     "brand": "bash",
-    "name": "LUCE",
-    "price": 115,
-    "link": "https://ba-sh.com/fr/fr/p/short-luce-kaki-3664784333975.html",
-    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb61d0466/allImages/E21/1E21LUCE_KAKI_1.jpg?sw=870&sh=1389&sm=fit"
+    "name": "BRAVE",
+    "price": 190,
+    "link": "https://ba-sh.com/fr/fr/p/pantalon-brave-noir-3664784329923.html",
+    "image": "https://ba-sh.com/dw/image/v2/BBTP_PRD/on/demandware.static/-/Sites-master-bash/default/dwb564e91a/allImages/E21/1E21BRAV_NOIR_1.jpg?sw=870&sh=1389&sm=fit"
   },
   {
     "_id": "36aab262-586f-5432-b00f-0cae80e043eb",
@@ -12556,7 +12556,7 @@
     "name": "Le t-shirt en coton bio",
     "price": 25,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-t-shirt-en-coton-bio",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/tshirtloomcotonbioblancface2_295x.jpg?v=1611740926"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/tshirtloomcotonbioblancface2_295x.jpg?v=1611740926"
   },
   {
     "_id": "fe6cc028-a146-5eab-9878-27be5164e436",
@@ -12564,7 +12564,7 @@
     "name": "Le t-shirt en coton",
     "price": 20,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-t-shirt",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_tshirt_coton_gris_anthracite_face_2_295x.jpg?v=1611741180"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_tshirt_coton_gris_anthracite_face_2_295x.jpg?v=1611741180"
   },
   {
     "_id": "605ed975-a69d-5e42-bdf1-fd6e569c0e6f",
@@ -12572,7 +12572,7 @@
     "name": "Le polo",
     "price": 45,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-polo",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/polo_bleu_face_2_1_295x.jpg?v=1596545655"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/polo_bleu_face_2_1_295x.jpg?v=1596545655"
   },
   {
     "_id": "6433fdb8-2831-570c-aa99-2a4d0a0e597c",
@@ -12580,7 +12580,7 @@
     "name": "Le chino en coton bio",
     "price": 80,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-chino-en-coton-bio",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/chinocotonbioloomkakipied_31966e16-e6e2-43e2-85c5-f0efcd51603d_295x.jpg?v=1612872332"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/chinocotonbioloomkakipied_31966e16-e6e2-43e2-85c5-f0efcd51603d_295x.jpg?v=1612872332"
   },
   {
     "_id": "a602e383-d9ff-5ba6-9d54-53b043ed2245",
@@ -12588,7 +12588,7 @@
     "name": "Le chino",
     "price": 75,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-chino",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/LOOM_CHINO_1_295x.jpg?v=1612267328"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/LOOM_CHINO_1_295x.jpg?v=1612267328"
   },
   {
     "_id": "517b2a79-f6e2-5bc7-bae1-31707eb6a6dc",
@@ -12596,7 +12596,7 @@
     "name": "Le jogging",
     "price": 50,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-jogging",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/joggingcotonloomgrisface2_295x.jpg?v=1610537975"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/joggingcotonloomgrisface2_295x.jpg?v=1610537975"
   },
   {
     "_id": "fa947f9d-6fa7-5a4c-bf98-962618beae0e",
@@ -12604,7 +12604,7 @@
     "name": "La chemise oxford",
     "price": 55,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-chemise-oxford",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/chemiseoxfordcotonbioloomfocusboutons_295x.jpg?v=1606142151"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/chemiseoxfordcotonbioloomfocusboutons_295x.jpg?v=1606142151"
   },
   {
     "_id": "ef55fa6e-422c-5151-8e31-620ed9c9baa2",
@@ -12612,7 +12612,7 @@
     "name": "La chemise en flanelle",
     "price": 60,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-chemise-en-flanelle",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_chemise_flanelle_coton_bio_bleue_face_2_295x.jpg?v=1578303931"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_chemise_flanelle_coton_bio_bleue_face_2_295x.jpg?v=1578303931"
   },
   {
     "_id": "96a81eee-5400-5076-9473-d3612ec36216",
@@ -12620,7 +12620,7 @@
     "name": "La chemise chambray",
     "price": 55,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-chemise-chambray",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/chemisechambraycotonbioloomvuebuste_295x.jpg?v=1606139591"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/chemisechambraycotonbioloomvuebuste_295x.jpg?v=1606139591"
   },
   {
     "_id": "8a469325-fbac-50ec-9e0c-d26e1ee79c00",
@@ -12628,7 +12628,7 @@
     "name": "La chemise vichy",
     "price": 50,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-chemise-vichy",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_chemise_vichy_coton_rouge_face_1_295x.jpg?v=1605263024"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_chemise_vichy_coton_rouge_face_1_295x.jpg?v=1605263024"
   },
   {
     "_id": "a4e92de6-8729-5da2-a53d-8faf424c02dd",
@@ -12636,7 +12636,7 @@
     "name": "Le sweat",
     "price": 60,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-sweat",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_sweat_coton_gris_chine_face_295x.jpg?v=1583227363"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_sweat_coton_gris_chine_face_295x.jpg?v=1583227363"
   },
   {
     "_id": "084a85ed-bb99-5cb8-9170-d032480455bf",
@@ -12644,7 +12644,7 @@
     "name": "Le hoodie",
     "price": 90,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-hoodie",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_hoodie_durable_bleu_face_295x.jpg?v=1591698418"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_hoodie_durable_bleu_face_295x.jpg?v=1591698418"
   },
   {
     "_id": "64bd7cc0-9b0a-5dc5-a4e8-e0e4ea9f3db4",
@@ -12652,7 +12652,7 @@
     "name": "Le pull léger en coton",
     "price": 65,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-pull-leger-en-coton",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/LOOM-PULL-MOUTARDE_DETAIL_COL_295x.jpg?v=1593175338"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/LOOM-PULL-MOUTARDE_DETAIL_COL_295x.jpg?v=1593175338"
   },
   {
     "_id": "3e7169a7-71c5-5a94-b230-a154dfcd9340",
@@ -12660,7 +12660,7 @@
     "name": "Le pull fin en laine",
     "price": 70,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-pull-fin-en-laine",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_pull_fin_laine_gris_detail_face_295x.jpg?v=1570185270"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_pull_fin_laine_gris_detail_face_295x.jpg?v=1570185270"
   },
   {
     "_id": "967471ac-75ec-5723-953b-b0b0a0a01eb5",
@@ -12668,7 +12668,7 @@
     "name": "Le pull épais",
     "price": 85,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-pull-epais",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loom_pull_epais_laine_merinos_bio_face_295x.jpg?v=1606141081"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loom_pull_epais_laine_merinos_bio_face_295x.jpg?v=1606141081"
   },
   {
     "_id": "d18ad057-8019-5e0b-8f22-5ec75e72b5ce",
@@ -12676,7 +12676,7 @@
     "name": "Le pull point de riz",
     "price": 100,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-pull-point-de-riz",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/pullpointderizlainebioloomvuebuste_295x.jpg?v=1606142333"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/pullpointderizlainebioloomvuebuste_295x.jpg?v=1606142333"
   },
   {
     "_id": "a07d1cbb-9d65-5a34-bf4a-983edcfc4fa4",
@@ -12684,7 +12684,7 @@
     "name": "Le pull col roulé",
     "price": 75,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-pull-col-roule",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/pullcolroulelainebiobleuloom2_295x.jpg?v=1609841699"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/pullcolroulelainebiobleuloom2_295x.jpg?v=1609841699"
   },
   {
     "_id": "05a43a1d-1b53-5dc9-a027-35a8b84336de",
@@ -12692,7 +12692,7 @@
     "name": "Les baskets",
     "price": 115,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/les-baskets",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/loombasketcuirblanchevued_ensemble_295x.jpg?v=1609857617"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/loombasketcuirblanchevued_ensemble_295x.jpg?v=1609857617"
   },
   {
     "_id": "141a4b41-9295-51f4-a7e5-1d827649c55e",
@@ -12700,7 +12700,7 @@
     "name": "Le boxer",
     "price": 18,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-boxer",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/boxercotonbioloombleu_295x.jpg?v=1600680304"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/boxercotonbioloombleu_295x.jpg?v=1600680304"
   },
   {
     "_id": "1a04387b-5996-51c3-bbf7-02626077737c",
@@ -12708,7 +12708,7 @@
     "name": "Les chaussettes",
     "price": 12,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/les-chaussettes",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/chaussettesresistantesloomnoires1_295x.jpg?v=1606903827"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/chaussettesresistantesloomnoires1_295x.jpg?v=1606903827"
   },
   {
     "_id": "01495fe1-b7f3-5c15-9fa5-119dc9747b43",
@@ -12716,7 +12716,7 @@
     "name": "Le bonnet",
     "price": 30,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-bonnet",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/bonnetlainebioloomporte_d9ba06b9-b4bd-47c4-aafe-b0114cf8b5bb_295x.jpg?v=1606405016"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/bonnetlainebioloomporte_d9ba06b9-b4bd-47c4-aafe-b0114cf8b5bb_295x.jpg?v=1606405016"
   },
   {
     "_id": "ffe89a3e-66b1-5a3b-bc5b-796c66e9019b",
@@ -12724,7 +12724,7 @@
     "name": "La ceinture",
     "price": 55,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-ceinture",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/Ceinturecuirpleinefleurloomnoire_295x.jpg?v=1598867306"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/Ceinturecuirpleinefleurloomnoire_295x.jpg?v=1598867306"
   },
   {
     "_id": "b4d193c2-164e-56b0-8ad6-1b20795ceaa9",
@@ -12732,7 +12732,7 @@
     "name": "Le porte-cartes",
     "price": 35,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/le-porte-cartes",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/porte_cartes_marron_loom_1_295x.jpg?v=1605262962"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/porte_cartes_marron_loom_1_295x.jpg?v=1605262962"
   },
   {
     "_id": "6eb9f342-cc78-54bd-ae80-a7f5363de0bc",
@@ -12740,7 +12740,7 @@
     "name": "La carte cadeau virtuelle",
     "price": 25,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-carte-cadeau-virtuelle",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/carte_cadeau_loom_295x.jpg?v=1594391711"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/carte_cadeau_loom_295x.jpg?v=1594391711"
   },
   {
     "_id": "0ea33260-21e9-5577-ac5f-4206e6bf7b11",
@@ -12748,7 +12748,7 @@
     "name": "La carte cadeau physique",
     "price": 50,
     "link": "https://www.loom.fr/collections/tous-les-vetements/products/la-carte-cadeau-physique",
-    "image": "//cdn.shopify.com/s/files/1/1355/7899/products/LOOM-17122020-29_295x.jpg?v=1610456855"
+    "image": "http://cdn.shopify.com/s/files/1/1355/7899/products/LOOM-17122020-29_295x.jpg?v=1610456855"
   },
   {
     "_id": "8af501d4-d87b-5c50-bfe1-d583f66f6c46",
@@ -12756,7 +12756,7 @@
     "name": "Relax Rose - Sun Stripe",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-sun-stripe",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Relax-Rose-Sun-Stripe-fullfront-5_1_346x498.jpg?v=1606315297"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Relax-Rose-Sun-Stripe-fullfront-5_1_346x498.jpg?v=1606315297"
   },
   {
     "_id": "97aa4df2-e11c-5fbc-95dd-8f0baa262f99",
@@ -12764,7 +12764,7 @@
     "name": "Relax Rose - Whale Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-whale-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Whale-Blue-Fullfront_346x498.jpg?v=1606315030"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Whale-Blue-Fullfront_346x498.jpg?v=1606315030"
   },
   {
     "_id": "7c886c49-fdc7-5635-845a-313e498d1dfe",
@@ -12772,7 +12772,7 @@
     "name": "Relax Rose - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-heavy-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Heavy-Stone-Fullfront_346x498.jpg?v=1606315241"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Heavy-Stone-Fullfront_346x498.jpg?v=1606315241"
   },
   {
     "_id": "13177f99-1e13-50e9-91de-48d9c5ae0200",
@@ -12780,7 +12780,7 @@
     "name": "Relax Rose - Dip Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-dip-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Dip-Black-Fullfront_346x498.jpg?v=1606315239"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Dip-Black-Fullfront_346x498.jpg?v=1606315239"
   },
   {
     "_id": "d30ec91c-cbf7-5933-a465-c0caedaa2abc",
@@ -12788,7 +12788,7 @@
     "name": "Relax Rose - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Undyed-Fullfront_346x498.jpg?v=1606315075"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Undyed-Fullfront_346x498.jpg?v=1606315075"
   },
   {
     "_id": "82b59a89-efe7-5a46-857f-4356f96b136a",
@@ -12796,7 +12796,7 @@
     "name": "Relax Rose - Terra",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-terra",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Terra-Fullfront-1_346x498.jpg?v=1606315041"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Terra-Fullfront-1_346x498.jpg?v=1606315041"
   },
   {
     "_id": "6434e931-520d-5c38-b57a-019d17c0fd9a",
@@ -12804,7 +12804,7 @@
     "name": "Relax Rose - Corn",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-rose-corn",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Corn-Fullfront_346x498.jpg?v=1606315040"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Relax-Rose-Corn-Fullfront_346x498.jpg?v=1606315040"
   },
   {
     "_id": "08799431-14cd-550f-98b0-c65e7c09a5ce",
@@ -12812,7 +12812,7 @@
     "name": "Skinny Hazen - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Skinny-Hazen-Stone-Black-Fullfront_346x498.jpg?v=1606315117"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Skinny-Hazen-Stone-Black-Fullfront_346x498.jpg?v=1606315117"
   },
   {
     "_id": "abad7ef3-a0ae-50c2-9a7c-d7fa0fd0a494",
@@ -12820,7 +12820,7 @@
     "name": "Skinny Hazen - Dip Dry",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-dip-dry",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Dip-Dry-Fullfront-2_1_346x498.jpg?v=1606315118"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Dip-Dry-Fullfront-2_1_346x498.jpg?v=1606315118"
   },
   {
     "_id": "731cf160-cf30-5c0e-bc46-b245a6242d12",
@@ -12828,7 +12828,7 @@
     "name": "Skinny Hazen - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Strong-Blue-Fullfront_346x498.jpg?v=1606315149"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Strong-Blue-Fullfront_346x498.jpg?v=1606315149"
   },
   {
     "_id": "ced5cb74-e32f-525f-9e75-88bf529a1647",
@@ -12836,7 +12836,7 @@
     "name": "Skinny Hazen - Fan Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-fan-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Fan-Stone-Fullfront_1eb49e55-3ace-453b-aa73-f4e504f25903_346x498.jpg?v=1606315091"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Fan-Stone-Fullfront_1eb49e55-3ace-453b-aa73-f4e504f25903_346x498.jpg?v=1606315091"
   },
   {
     "_id": "7d957cb6-68dd-5ae9-b4b8-a0a27c5ac7fa",
@@ -12844,7 +12844,7 @@
     "name": "Skinny Hazen - Pure Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Skinny-Hazen-Pure-Blue-Fullfront_346x498.jpg?v=1606315135"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Skinny-Hazen-Pure-Blue-Fullfront_346x498.jpg?v=1606315135"
   },
   {
     "_id": "9b3800d2-d715-5b1c-b017-125cc4b8ca80",
@@ -12852,7 +12852,7 @@
     "name": "Skinny Hazen - O3 Grey",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-o3-grey",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-03-Grey-Fullfront_346x498.jpg?v=1606315157"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-03-Grey-Fullfront_346x498.jpg?v=1606315157"
   },
   {
     "_id": "dd4aba1d-07f2-5190-a562-78c3216f0c9f",
@@ -12860,7 +12860,7 @@
     "name": "Skinny Hazen - Sea Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-hazen-sea-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Sea-Stone-Fullfront_346x498.jpg?v=1606315158"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Hazen-Sea-Stone-Fullfront_346x498.jpg?v=1606315158"
   },
   {
     "_id": "68145586-1ca7-59c9-9cb4-bfee7e011b2e",
@@ -12868,7 +12868,7 @@
     "name": "Regular Swan - Authentic Indigo - RCY",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/regular-swan-authentic-indigo-rcy",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Authentic-Indigo-Fullfront_346x498.jpg?v=1606315108"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Authentic-Indigo-Fullfront_346x498.jpg?v=1606315108"
   },
   {
     "_id": "70bad71f-b033-5b33-a521-94c661907119",
@@ -12876,7 +12876,7 @@
     "name": "Regular Swan - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/regular-swan-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Strong-Blue-Fullfront_346x498.jpg?v=1606315140"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Strong-Blue-Fullfront_346x498.jpg?v=1606315140"
   },
   {
     "_id": "807ee2af-e955-5c6e-bf17-6ac705608621",
@@ -12884,7 +12884,7 @@
     "name": "Regular Swan - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/regular-swan-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Stone-Black-Fullfront_346x498.jpg?v=1606315294"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Stone-Black-Fullfront_346x498.jpg?v=1606315294"
   },
   {
     "_id": "c9f569f2-770d-535a-8f7b-795d73c227f5",
@@ -12892,7 +12892,7 @@
     "name": "Regular Swan - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/regular-swan-heavy-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Heavy-Stone-Fullfront_346x498.jpg?v=1606315279"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Regular-Swan-Heavy-Stone-Fullfront_346x498.jpg?v=1606315279"
   },
   {
     "_id": "03c6cf48-e6cd-5b5b-9078-8b810166dd88",
@@ -12900,7 +12900,7 @@
     "name": "Regular Swan - Sea Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/regular-swan-sea-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Organic-Jeans-Regular-Swan-Sea-Stone-fullfront-1_8a5f5b5c-50b1-4879-84dd-56c721099cec_346x498.jpg?v=1600776495"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Organic-Jeans-Regular-Swan-Sea-Stone-fullfront-1_8a5f5b5c-50b1-4879-84dd-56c721099cec_346x498.jpg?v=1600776495"
   },
   {
     "_id": "467a43d1-4cca-55dd-ac77-2c74a718eea3",
@@ -12908,7 +12908,7 @@
     "name": "Flared Hazen - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Stone-Black-Fullfront_346x498.jpg?v=1606315170"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Stone-Black-Fullfront_346x498.jpg?v=1606315170"
   },
   {
     "_id": "ec50a179-768c-56bd-afd7-797e5859e018",
@@ -12916,7 +12916,7 @@
     "name": "Flared Hazen - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Strong-Blue-Fullfront_346x498.jpg?v=1606315142"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Strong-Blue-Fullfront_346x498.jpg?v=1606315142"
   },
   {
     "_id": "325d43c3-f0ea-53f0-80e7-d1b1429543c9",
@@ -12924,7 +12924,7 @@
     "name": "Flared Hazen - Authentic Indigo",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-authentic-indigo",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Authentic-Indigo-Fullfront_346x498.jpg?v=1606315281"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Authentic-Indigo-Fullfront_346x498.jpg?v=1606315281"
   },
   {
     "_id": "689b93ab-5c28-5f5e-82f3-806fc26a125f",
@@ -12932,7 +12932,7 @@
     "name": "Flared Hazen - Terra",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-terra",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Terra-Fullfront_346x498.jpg?v=1606315087"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Terra-Fullfront_346x498.jpg?v=1606315087"
   },
   {
     "_id": "f71424ce-40bd-5606-9483-b8a8e5730c5c",
@@ -12940,7 +12940,7 @@
     "name": "Flared Hazen - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Undyed-Fullfront_346x498.jpg?v=1606315089"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Undyed-Fullfront_346x498.jpg?v=1606315089"
   },
   {
     "_id": "67301360-32b4-5048-aa05-b2b4ed4679ab",
@@ -12948,7 +12948,7 @@
     "name": "Flared Hazen - Corn",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-corn",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Corn-Fullfront_346x498.jpg?v=1606315084"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Flared-Hazen-Corn-Fullfront_346x498.jpg?v=1606315084"
   },
   {
     "_id": "947c5276-54eb-5259-ad5d-cb4a71a89e93",
@@ -12956,7 +12956,7 @@
     "name": "Flared Hazen - Olive",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/flared-hazen-olive",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/flaredhazenolive-Fullbodywomen-5-eco-jeans_346x498.jpg?v=1606315299"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/flaredhazenolive-Fullbodywomen-5-eco-jeans_346x498.jpg?v=1606315299"
   },
   {
     "_id": "6a281c99-6b76-5882-a2e7-82f8f23093a9",
@@ -12964,7 +12964,7 @@
     "name": "Skinny Lilly - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-lilly-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Stone-Black-Fullfront_346x498.jpg?v=1606315115"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Stone-Black-Fullfront_346x498.jpg?v=1606315115"
   },
   {
     "_id": "c58e540f-66e4-5842-9ebd-619ba7b899dd",
@@ -12972,7 +12972,7 @@
     "name": "Skinny Lilly - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-lilly-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Strong-Blue-Fullfront_346x498.jpg?v=1606315151"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Strong-Blue-Fullfront_346x498.jpg?v=1606315151"
   },
   {
     "_id": "c664b149-886c-5056-8648-e217203fcf62",
@@ -12980,7 +12980,7 @@
     "name": "Skinny Lilly - O3 Grey",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-lilly-o3-grey",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-03-Grey-Fullfront-1_346x498.jpg?v=1606315167"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-03-Grey-Fullfront-1_346x498.jpg?v=1606315167"
   },
   {
     "_id": "1f34ecd9-f688-5f0c-a28c-cf9881f568e4",
@@ -12988,7 +12988,7 @@
     "name": "Skinny Lilly - Fan Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-lilly-fan-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Fan-Stone-Fullfront_346x498.jpg?v=1606315093"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Fan-Stone-Fullfront_346x498.jpg?v=1606315093"
   },
   {
     "_id": "f4609902-111b-5198-8b90-7abecb63c896",
@@ -12996,7 +12996,7 @@
     "name": "Skinny Lilly - Pure Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/skinny-lilly-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Pure-Blue-Fullfront-1_346x498.jpg?v=1606315138"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Skinny-Lilly-Pure-Blue-Fullfront-1_346x498.jpg?v=1606315138"
   },
   {
     "_id": "6316e42c-ef21-5295-b2fa-b568676b272b",
@@ -13004,7 +13004,7 @@
     "name": "Stretch Mimi - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/stretch-mimi-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Stretch-Mimi-Stone-Black-Fullfront_346x498.jpg?v=1606315193"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Stretch-Mimi-Stone-Black-Fullfront_346x498.jpg?v=1606315193"
   },
   {
     "_id": "1394f5bd-d29a-5441-821d-7277bf0875d8",
@@ -13012,7 +13012,7 @@
     "name": "Cropped Mimi - Sun Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/cropped-mimi-sun-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Cropped-Mimi-Fullfront_346x498.jpg?v=1606315124"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Eco-Jeans-Cropped-Mimi-Fullfront_346x498.jpg?v=1606315124"
   },
   {
     "_id": "66ea3206-37f8-5a7d-b2e9-7d1670466228",
@@ -13020,7 +13020,7 @@
     "name": "Stretch Mimi - Pure Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/stretch-mimi-pure-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Stretch-Mimi-Pure-Blue-Fullfront_346x498.jpg?v=1606315244"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Sustainable-Jeans-Stretch-Mimi-Pure-Blue-Fullfront_346x498.jpg?v=1606315244"
   },
   {
     "_id": "db3b329c-6477-5c55-8cdf-628160383700",
@@ -13028,7 +13028,7 @@
     "name": "Claire Chino - Strong Blue",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/claire-chino-strong-blue",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Claire-Chino-Strong-Blue-Fullfront_346x498.jpg?v=1606315231"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Claire-Chino-Strong-Blue-Fullfront_346x498.jpg?v=1606315231"
   },
   {
     "_id": "463c62c7-3977-577c-9949-aeb189412c4e",
@@ -13036,7 +13036,7 @@
     "name": "Relax Fred - Heavy Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/relax-fred-heavy-stone-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/uni-Sustainable-Jeans-Relaxed-Fred-Heavy-Stone-Fullfront_346x498.jpg?v=1606315028"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/uni-Sustainable-Jeans-Relaxed-Fred-Heavy-Stone-Fullfront_346x498.jpg?v=1606315028"
   },
   {
     "_id": "4d397576-3895-5dc3-80a4-8ed576626a1f",
@@ -13044,7 +13044,7 @@
     "name": "Boyfriend Basin - Light Stone",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/boyfriend-basin-light-stone",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Fair-jeans-boyfriend-basin-light-stone-fullfront-1_c3913423-993e-455e-8854-2b2c9bd863b7_346x498.jpg?v=1600775852"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Fair-jeans-boyfriend-basin-light-stone-fullfront-1_c3913423-993e-455e-8854-2b2c9bd863b7_346x498.jpg?v=1600775852"
   },
   {
     "_id": "7c04e825-1329-5a14-a60b-3adc88701e08",
@@ -13052,7 +13052,7 @@
     "name": "Boyfriend Basin - Stone Black",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/boyfriend-basin-stone-black",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Fair-Jeans-Boyfriend-Basin-Stone-Black-fullfront-2_23aeb510-0857-4f6d-a8fa-7d041f59233d_346x498.jpg?v=1600775820"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Fair-Jeans-Boyfriend-Basin-Stone-Black-fullfront-2_23aeb510-0857-4f6d-a8fa-7d041f59233d_346x498.jpg?v=1600775820"
   },
   {
     "_id": "e0ec5438-065a-5a3b-8244-e2dd4d7e5e24",
@@ -13060,7 +13060,7 @@
     "name": "Will Works - Dip Black W",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/will-works-dip-black-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Dip-Black-Fullfront-Recovered_346x498.jpg?v=1611743566"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Dip-Black-Fullfront-Recovered_346x498.jpg?v=1611743566"
   },
   {
     "_id": "cf4c5d89-ec0d-57e3-8195-8645c1e1bc6d",
@@ -13068,7 +13068,7 @@
     "name": "Will Works - Heavy Stone W",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/will-works-heavy-stone-w",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/will-works-heavy-stone-full-body-unisex-3_346x498.jpg?v=1611743653"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/will-works-heavy-stone-full-body-unisex-3_346x498.jpg?v=1611743653"
   },
   {
     "_id": "eadd0c78-f032-5cfb-9228-a29d74ea4b10",
@@ -13076,7 +13076,7 @@
     "name": "Will Works - Olive",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/will-works-olive",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Will-Works-Olive-Fullfront-1_346x498.jpg?v=1611743717"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Woman-Ethical-Jeans-Will-Works-Olive-Fullfront-1_346x498.jpg?v=1611743717"
   },
   {
     "_id": "7117d414-421c-5c77-bc3a-a76b47d6100f",
@@ -13084,6 +13084,6 @@
     "name": "Will Works - Undyed",
     "price": 119,
     "link": "https://mudjeans.eu/collections/women-buy-jeans/products/will-works-undyed",
-    "image": "//cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Undyed-Fullfront_346x498.jpg?v=1611743779"
+    "image": "http://cdn.shopify.com/s/files/1/0432/6427/8679/products/Unisex-Sustainable-Jeans-Will-Works-Undyed-Fullfront_346x498.jpg?v=1611743779"
   }
 ]

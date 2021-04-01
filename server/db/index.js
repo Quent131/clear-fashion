@@ -60,18 +60,65 @@ module.exports.insert = async products => {
  * @param  {Array}  query
  * @return {Array}
  */
-module.exports.find = async (query, limit=0) => {
+module.exports.find = async (query, limit, sorting, page) => {
   try {
     const db = await getDB();
     const collection = db.collection(MONGODB_COLLECTION);
+    const num_doc = await collection.find(query).sort({price:sorting}).count()
     let result = null;
-    if(limit!=0) {
-      result = await collection.find(query).sort({price:1}).limit(limit).toArray();
-    } else {result = await collection.find(query).sort({price:1}).toArray();}
-    return result;
+    result = await collection.find(query).sort({price:sorting, _id:1}).limit(limit).skip((page-1)*limit).toArray();
+    return [result,num_doc];
   } catch (error) {
     console.error('🚨 collection.find...', error);
-    return null;
+    return [null,null];
+  }
+};
+
+module.exports.getDB_len = async() => {
+  try {
+    const db = await getDB();
+    const collection = db.collection(MONGODB_COLLECTION);
+    let len_db = await collection.countDocuments()
+    return len_db;
+  } catch(e) {return e}
+};
+
+module.exports.getbrands = async() => {
+  try {
+    const db = await getDB();
+    const collection = db.collection(MONGODB_COLLECTION);
+    const brands = await collection.distinct("brand");
+    return brands;
+  } catch(e) {
+    return e;
+  }
+};
+
+module.exports.get_extrema = async() => {
+  try {
+    const db = await getDB();
+    const collection = db.collection(MONGODB_COLLECTION);
+    const extrema = await collection.aggregate([ 
+    { "$group": { 
+        "_id": null,
+        "max": { "$max": "$price" }, 
+        "min": { "$min": "$price" } 
+    }}
+    ]).toArray();
+    return extrema;
+  } catch(e) {
+    return e;
+  }
+};
+
+module.exports.get_prices = async() => {
+  try {
+    const db = await getDB();
+    const collection = db.collection(MONGODB_COLLECTION);
+    const prices = await collection.find({}).project({"price":1}).toArray();
+    return prices;
+  } catch(e) {
+    return e;
   }
 };
 

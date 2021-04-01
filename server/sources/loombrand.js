@@ -31,9 +31,10 @@ const parse = data => {
         .text());
 
 
-      const image = $(element)
+      let image = $(element)
         .find('.product_card__image')
         .attr('src');
+      image = 'http:'+image;
 
       const _id = uuidv5(link, uuidv5.URL);
 

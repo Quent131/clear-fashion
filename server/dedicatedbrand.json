@@ -2400,35 +2400,35 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4552_85982e845e-block-bike_stockholm-ded-standard.jpg"
   },
   {
-    "_id": "d9839e8e-e470-5a0d-bf0b-b5b48ab48ddf",
+    "_id": "b410f022-0599-5d8f-acfc-9bcaca7494d4",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-multi-color",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-multi-color",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5870_b7204669d1-3-pack_4-ded-standard.jpg"
   },
   {
-    "_id": "0778f340-c15e-552a-a140-1494975de7c1",
+    "_id": "598ea3d5-425c-55d0-8e6b-f1c35758fd9a",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-white-black",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-white-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5869_69032ffd49-3-pack_3-ded-standard.jpg"
   },
   {
-    "_id": "8e1220be-02dc-5201-b86a-9f19061d0014",
+    "_id": "a16c935d-6d23-52a4-a428-7f139a50cea0",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack-white",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5868_c730d0267d-3-pack_-ded-standard.jpg"
   },
   {
-    "_id": "f4861193-89a2-5cf8-8f51-2e6467ffd09f",
+    "_id": "678384c9-20bd-5151-9e1a-382984501eb8",
     "brand": "dedicated",
     "name": "T-shirt Stockholm Base 3-pack",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/t-shirts/base/t-shirt-stockholm-base-3-pack",
+    "link": "https://www.dedicatedbrand.com/en/men/basics/t-shirt-stockholm-base-3-pack",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5867_f5eb91ca3e-3-pack_2-ded-standard.jpg"
   },
   {
@@ -2496,6 +2496,14 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5893_af55ad3448-dedicated-3765-ded-standard.jpg"
   },
   {
+    "_id": "d8802fb0-4581-5dcb-8a81-d2f9aae6887d",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Grey Melange",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-grey-melange",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6120_e3e68b8f6d-dedicated_300620-2901-ded-standard.jpg"
+  },
+  {
     "_id": "d570aa55-d22c-5d65-922b-9db913561b90",
     "brand": "dedicated",
     "name": "Hoodie Falun Dedicated Logo Pale Red",
@@ -2504,36 +2512,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6264_9e1c2cc5da-dedicated_300620-2955-ded-standard.jpg"
   },
   {
-    "_id": "0750da3a-1262-5d71-b838-15f6e6baee9f",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Pale Red",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-pale-red",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6265_7a4371be92-dedicated-3439-ded-standard.jpg"
-  },
-  {
     "_id": "3f2522d1-cd2e-5176-ba21-f83c847914ad",
     "brand": "dedicated",
     "name": "Sweatshirt Malmoe Dedicated Logo Pale Red",
     "price": 59.95,
     "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-dedicated-logo-pale-red",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6266_c94d6911d4-dedicated-3535-ded-standard.jpg"
-  },
-  {
-    "_id": "f3704d63-34b2-591b-8ac3-2b7a537a4126",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Yellow",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6313_ad9e7b441b-dedicated-3705-ded-standard.jpg"
-  },
-  {
-    "_id": "df9f9618-94df-5a17-b5ad-79c82d01da66",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Mint",
-    "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-mint",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6328_3d1cb85cc3-dedicated-3472-ded-standard.jpg"
   },
   {
     "_id": "97f719ff-760e-5266-904d-a07084848d53",
@@ -2552,12 +2536,28 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6362_5a8bf48439-dedicated-4499-ded-standard.jpg"
   },
   {
-    "_id": "d8802fb0-4581-5dcb-8a81-d2f9aae6887d",
+    "_id": "f3704d63-34b2-591b-8ac3-2b7a537a4126",
     "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Base Grey Melange",
+    "name": "Sweatshirt Malmoe Base Yellow",
     "price": 59.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-grey-melange",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6120_e3e68b8f6d-dedicated_300620-2901-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6313_ad9e7b441b-dedicated-3705-ded-standard.jpg"
+  },
+  {
+    "_id": "df9f9618-94df-5a17-b5ad-79c82d01da66",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Mint",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-mint",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6328_3d1cb85cc3-dedicated-3472-ded-standard.jpg"
+  },
+  {
+    "_id": "0750da3a-1262-5d71-b838-15f6e6baee9f",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Base Pale Red",
+    "price": 59.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-base-pale-red",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6265_7a4371be92-dedicated-3439-ded-standard.jpg"
   },
   {
     "_id": "bf722747-db09-5d17-9a74-73b34312564a",
@@ -2783,20 +2783,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6267_347f5009cc-dedicated_300620-3021-ded-standard.jpg"
   },
   {
-    "_id": "7c6ba520-0193-5460-8fcd-3a69660da374",
+    "_id": "8fa1edc0-5902-5373-b507-c23566d65a17",
     "brand": "dedicated",
-    "name": "Hoodie Falun Tie Dye Blue",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/hoodies/hoodie-falun-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6215_d6ef986fdc-aw_ss_21_carryovers_28517-ded-standard.jpg"
-  },
-  {
-    "_id": "b0fd5c15-3d2b-5e49-bf9e-083110679c9f",
-    "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Tie Dye Blue",
+    "name": "Sweatshirt Malmoe Local Planet Grey Melange",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5995_090545cebd-dedicated_300620-2576-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/news/sweatshirt-malmoe-local-planet-grey-melange",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6121_f312fa2000-dedicated_300620-3383-ded-standard.jpg"
   },
   {
     "_id": "fdfef2b6-503a-56f6-8065-14353602a67f",
@@ -2815,12 +2807,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5894_8acebb4d93-dedicated_300620-2733-ded-standard.jpg"
   },
   {
-    "_id": "8fa1edc0-5902-5373-b507-c23566d65a17",
+    "_id": "7c6ba520-0193-5460-8fcd-3a69660da374",
     "brand": "dedicated",
-    "name": "Sweatshirt Malmoe Local Planet Grey Melange",
+    "name": "Hoodie Falun Tie Dye Blue",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/hoodies/hoodie-falun-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6215_d6ef986fdc-aw_ss_21_carryovers_28517-ded-standard.jpg"
+  },
+  {
+    "_id": "b0fd5c15-3d2b-5e49-bf9e-083110679c9f",
+    "brand": "dedicated",
+    "name": "Sweatshirt Malmoe Tie Dye Blue",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/news/sweatshirt-malmoe-local-planet-grey-melange",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6121_f312fa2000-dedicated_300620-3383-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/sweats/sweatshirts/sweatshirt-malmoe-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5995_090545cebd-dedicated_300620-2576-ded-standard.jpg"
   },
   {
     "_id": "bd1b006c-67e2-5450-a8fb-4307674d6a37",
@@ -3407,22 +3407,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5596_3b959f4772-saturday_11829-ded-standard.jpg"
   },
   {
-    "_id": "c15480b2-8123-5404-b367-cef65edd9fb4",
-    "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Leopard Light Brown",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-leopard-light-brown",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6054_1a5cdc1daa-dedicated_300720-7400-ded-standard.jpg"
-  },
-  {
-    "_id": "324d23ad-5125-5119-a73f-d68ce86c0f17",
-    "brand": "dedicated",
-    "name": "Shirt Edsbyn Golden Yellow",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-edsbyn-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6084_5efd464408-dedicated_300720-7617-ded-standard.jpg"
-  },
-  {
     "_id": "fbd50743-f02a-56d9-9695-4be438080806",
     "brand": "dedicated",
     "name": "Shirt Short Sleeve Sandefjord Dobby Navy",
@@ -3437,6 +3421,38 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-sandefjord-dobby-off-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6407_ba1aff2a89-dedicated_300720-7575-ded-standard.jpg"
+  },
+  {
+    "_id": "d7cfd30d-1b17-5b56-af3b-658594d71cc5",
+    "brand": "dedicated",
+    "name": "Shirt Varberg Navy",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-navy",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5984_eeceff6a3c-dedicated-4785-ded-standard.jpg"
+  },
+  {
+    "_id": "5342c2b4-75f2-55b8-b740-30293c387400",
+    "brand": "dedicated",
+    "name": "Shirt Varberg Dobby Off-White",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-dobby-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6246_95a8f674a2-dedicated-3226-ded-standard.jpg"
+  },
+  {
+    "_id": "7656c702-f014-59d7-8e49-78e631ed2e13",
+    "brand": "dedicated",
+    "name": "Shirt Short Sleeve Marstrand Flying Hummingbirds Multi Color",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-flying-hummingbirds-multi-color",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6187_a39551df6d-dedicated1462-ded-standard.jpg"
+  },
+  {
+    "_id": "c15480b2-8123-5404-b367-cef65edd9fb4",
+    "brand": "dedicated",
+    "name": "Shirt Short Sleeve Marstrand Leopard Light Brown",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-leopard-light-brown",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6054_1a5cdc1daa-dedicated_300720-7400-ded-standard.jpg"
   },
   {
     "_id": "662cfbc8-bddf-5722-821e-b6ed8712263b",
@@ -3455,20 +3471,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6247_786e418c60-aw_ss_21_carryovers_30681-ded-standard.jpg"
   },
   {
-    "_id": "7656c702-f014-59d7-8e49-78e631ed2e13",
+    "_id": "324d23ad-5125-5119-a73f-d68ce86c0f17",
     "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Flying Hummingbirds Multi Color",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-flying-hummingbirds-multi-color",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6187_a39551df6d-dedicated1462-ded-standard.jpg"
-  },
-  {
-    "_id": "0e52a737-8162-5540-a8b9-d3ef3df46333",
-    "brand": "dedicated",
-    "name": "Shirt Short Sleeve Marstrand Peanuts AOP Off-White",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-peanuts-aop-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6188_4ef7e38436-dedicated1194-ded-standard.jpg"
+    "name": "Shirt Edsbyn Golden Yellow",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-edsbyn-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6084_5efd464408-dedicated_300720-7617-ded-standard.jpg"
   },
   {
     "_id": "c9ef5706-2694-590d-aae5-c0b5d8d35dcb",
@@ -3479,20 +3487,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6190_3f8016b8b3-dedicated1502-ded-standard.jpg"
   },
   {
-    "_id": "d7cfd30d-1b17-5b56-af3b-658594d71cc5",
+    "_id": "0e52a737-8162-5540-a8b9-d3ef3df46333",
     "brand": "dedicated",
-    "name": "Shirt Varberg Navy",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-navy",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5984_eeceff6a3c-dedicated-4785-ded-standard.jpg"
-  },
-  {
-    "_id": "5342c2b4-75f2-55b8-b740-30293c387400",
-    "brand": "dedicated",
-    "name": "Shirt Varberg Dobby Off-White",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-varberg-dobby-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6246_95a8f674a2-dedicated-3226-ded-standard.jpg"
+    "name": "Shirt Short Sleeve Marstrand Peanuts AOP Off-White",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/shirts/shirt-short-sleeve-marstrand-peanuts-aop-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6188_4ef7e38436-dedicated1194-ded-standard.jpg"
   },
   {
     "_id": "1a51eec7-ec5c-58b7-bd25-32bc16899c1d",
@@ -3663,68 +3663,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5133_95357c6375-aw_ss_21_carryovers_31634-ded-standard.jpg"
   },
   {
-    "_id": "e269e171-b4a5-56f9-8c0f-5576bb899808",
+    "_id": "6d27a686-dcfc-5b76-b604-4976b2769e64",
     "brand": "dedicated",
-    "name": "Chino Shorts Nacka Black",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chino-shorts-nacka-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5925_6130b1d3ba-dedicated_300720-8396-ded-standard.jpg"
-  },
-  {
-    "_id": "01515cb5-c4aa-5ee9-933c-a83000369863",
-    "brand": "dedicated",
-    "name": "Shorts Kungsbacka Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-kungsbacka-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5942_d7351b36b2-dedicated_300720-8283-ded-standard.jpg"
-  },
-  {
-    "_id": "4bd4e8b6-7bac-520e-aa33-7e707d987f1f",
-    "brand": "dedicated",
-    "name": "Shorts Vejle Black",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6409_134d23aefa-dedicated_300720-8216-ded-standard.jpg"
-  },
-  {
-    "_id": "45e766e3-46ca-5591-80e6-cc3f6d491cc8",
-    "brand": "dedicated",
-    "name": "Pants Klitmoeller Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6408_c6b60d090c-aw_ss_21_carryovers_27861-ded-standard.jpg"
-  },
-  {
-    "_id": "4aa72ae7-903b-5c6c-b142-fdbcdc5ddbe2",
-    "brand": "dedicated",
-    "name": "Pants Lerum Olive Green",
+    "name": "Pants Kinna Black",
     "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-lerum-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6410_12659f3dc4-aw_ss_21_carryovers_27027-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/news/pants-kinna-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5839_839da2b5d2-aw_ss_21_carryovers_26854-ded-standard.jpg"
   },
   {
-    "_id": "77c76cd4-bd97-527a-9127-9de926e570fc",
+    "_id": "659ae1f8-6481-5434-8e03-c90508fc05c9",
     "brand": "dedicated",
-    "name": "Chino Shorts Nacka Olive Green",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/chino-shorts-nacka-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6154_949f7ab6e3-aw_ss_21_carryovers_27169-ded-standard.jpg"
-  },
-  {
-    "_id": "9c0bece0-8143-5b40-b4d3-c8b1c1a5875c",
-    "brand": "dedicated",
-    "name": "Joggers Lund Peanuts AOP Multi Color",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-peanuts-aop-multi-color",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6161_34234eaa9e-dedicated3009-ded-standard.jpg"
-  },
-  {
-    "_id": "922f0d77-672b-5eb8-8834-26c1dc40e5ea",
-    "brand": "dedicated",
-    "name": "Chinos Sundsvall Black",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chinos-sundsvall-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5926_d6cf86ccb2-dedicated-studio-day-225924-ded-standard.jpg"
+    "name": "Pants Kinna Leaf Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants-kinna-leaf-green-leaf_-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5840_8eebb13631-dedicated-studio-day-226034-ded-standard.jpg"
   },
   {
     "_id": "228d74a7-f84c-58d5-9eeb-659edcae26a7",
@@ -3743,12 +3695,60 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6155_5e556b0b0d-dedicated_300720-7933-ded-standard.jpg"
   },
   {
-    "_id": "4c9326d1-41ff-57bd-aed1-d77a5212fc94",
+    "_id": "e269e171-b4a5-56f9-8c0f-5576bb899808",
     "brand": "dedicated",
-    "name": "Joggers Lund Tie Dye Blue",
+    "name": "Chino Shorts Nacka Black",
     "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-tie-dye-blue",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5994_6293e7a532-dedicated2894-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chino-shorts-nacka-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5925_6130b1d3ba-dedicated_300720-8396-ded-standard.jpg"
+  },
+  {
+    "_id": "77c76cd4-bd97-527a-9127-9de926e570fc",
+    "brand": "dedicated",
+    "name": "Chino Shorts Nacka Olive Green",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/chino-shorts-nacka-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6154_949f7ab6e3-aw_ss_21_carryovers_27169-ded-standard.jpg"
+  },
+  {
+    "_id": "45e766e3-46ca-5591-80e6-cc3f6d491cc8",
+    "brand": "dedicated",
+    "name": "Pants Klitmoeller Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6408_c6b60d090c-aw_ss_21_carryovers_27861-ded-standard.jpg"
+  },
+  {
+    "_id": "4aa72ae7-903b-5c6c-b142-fdbcdc5ddbe2",
+    "brand": "dedicated",
+    "name": "Pants Lerum Olive Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-lerum-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6410_12659f3dc4-aw_ss_21_carryovers_27027-ded-standard.jpg"
+  },
+  {
+    "_id": "01515cb5-c4aa-5ee9-933c-a83000369863",
+    "brand": "dedicated",
+    "name": "Shorts Kungsbacka Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-kungsbacka-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5942_d7351b36b2-dedicated_300720-8283-ded-standard.jpg"
+  },
+  {
+    "_id": "4bd4e8b6-7bac-520e-aa33-7e707d987f1f",
+    "brand": "dedicated",
+    "name": "Shorts Vejle Black",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6409_134d23aefa-dedicated_300720-8216-ded-standard.jpg"
+  },
+  {
+    "_id": "9c0bece0-8143-5b40-b4d3-c8b1c1a5875c",
+    "brand": "dedicated",
+    "name": "Joggers Lund Peanuts AOP Multi Color",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-peanuts-aop-multi-color",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6161_34234eaa9e-dedicated3009-ded-standard.jpg"
   },
   {
     "_id": "e0e98d65-27ce-5821-a958-6d06136c0e20",
@@ -3759,20 +3759,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6216_9b3619eb81-dedicated2981-ded-standard.jpg"
   },
   {
-    "_id": "21786375-bb2b-587c-84bd-e534fbde8141",
+    "_id": "922f0d77-672b-5eb8-8834-26c1dc40e5ea",
     "brand": "dedicated",
-    "name": "Pants Kinna Leaf Green",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-kinna-leaf-green-leaf_-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5840_8eebb13631-dedicated-studio-day-226034-ded-standard.jpg"
+    "name": "Chinos Sundsvall Black",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/chinos-sundsvall-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5926_d6cf86ccb2-dedicated-studio-day-225924-ded-standard.jpg"
   },
   {
-    "_id": "6d27a686-dcfc-5b76-b604-4976b2769e64",
+    "_id": "4c9326d1-41ff-57bd-aed1-d77a5212fc94",
     "brand": "dedicated",
-    "name": "Pants Kinna Black",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/men/news/pants-kinna-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5839_839da2b5d2-aw_ss_21_carryovers_26854-ded-standard.jpg"
+    "name": "Joggers Lund Tie Dye Blue",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/joggers/joggers-lund-tie-dye-blue",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5994_6293e7a532-dedicated2894-ded-standard.jpg"
   },
   {
     "_id": "1d507d0a-a450-5076-8333-ec910fa8e88d",
@@ -3799,11 +3799,19 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5331_6b7a93d6b8-aw_ss_21_carryovers_27989-ded-standard.jpg"
   },
   {
-    "_id": "4e3da228-e2ab-5290-8632-41cd5ad7757e",
+    "_id": "e93b8a09-0837-58e6-aab9-11a46b103d4a",
+    "brand": "dedicated",
+    "name": "Shorts Vejle Thin Stripes",
+    "price": 69.95,
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-thin-stripes",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5149_76dccfe805-aw_ss_21_carryovers_27337-ded-standard.jpg"
+  },
+  {
+    "_id": "9ec1320b-feeb-5fd1-8738-2298b8456364",
     "brand": "dedicated",
     "name": "Pants Klitmoeller Green",
     "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants-klitmoeller-green",
+    "link": "https://www.dedicatedbrand.com/en/men/bottoms/pants/pants-klitmoeller-green",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5330_e2deb9ce2c-dscf6386-ded-standard.jpg"
   },
   {
@@ -3871,14 +3879,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5485_3c7cf0f589-session-utan-namn4517-ded-standard.jpg"
   },
   {
-    "_id": "e93b8a09-0837-58e6-aab9-11a46b103d4a",
-    "brand": "dedicated",
-    "name": "Shorts Vejle Thin Stripes",
-    "price": 69.95,
-    "link": "https://www.dedicatedbrand.com/en/men/bottoms/shorts/shorts-vejle-thin-stripes",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5149_76dccfe805-aw_ss_21_carryovers_27337-ded-standard.jpg"
-  },
-  {
     "_id": "d2f60642-3ee2-587a-90bd-bd589f4e4015",
     "brand": "dedicated",
     "name": "Shorts Vejle Green",
@@ -3935,14 +3935,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4753_9691e1e683-dscf1816-ded-standard.jpg"
   },
   {
-    "_id": "6c04e4cf-1758-5d17-aa9e-8fc13f5f1e7f",
-    "brand": "dedicated",
-    "name": "Jacket Leksand Olive Green",
-    "price": 119.95,
-    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-olive-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6405_85fdf29d87-dedicated-3765-ded-standard.jpg"
-  },
-  {
     "_id": "e3aa9ef7-d428-5465-9234-c88847aaa5b9",
     "brand": "dedicated",
     "name": "Jacket Hoddevik Beige",
@@ -3957,6 +3949,22 @@
     "price": 199.95,
     "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-hoddevik-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5478_edfdb316d1-dedicated-5167-ded-standard.jpg"
+  },
+  {
+    "_id": "6c04e4cf-1758-5d17-aa9e-8fc13f5f1e7f",
+    "brand": "dedicated",
+    "name": "Jacket Leksand Olive Green",
+    "price": 119.95,
+    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-olive-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6405_85fdf29d87-dedicated-3765-ded-standard.jpg"
+  },
+  {
+    "_id": "465ec3c7-0de7-5c5f-870c-7a2543aaffb3",
+    "brand": "dedicated",
+    "name": "Jacket Leksand Black",
+    "price": 129.95,
+    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5480_2c5f614731-aw_ss_21_carryovers_30779-ded-standard.jpg"
   },
   {
     "_id": "82f24a2f-780f-5b13-954d-d3cee9c98b45",
@@ -4023,14 +4031,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5481_da574b4719-sunday_14580_2-ded-standard.jpg"
   },
   {
-    "_id": "465ec3c7-0de7-5c5f-870c-7a2543aaffb3",
-    "brand": "dedicated",
-    "name": "Jacket Leksand Black",
-    "price": 129.95,
-    "link": "https://www.dedicatedbrand.com/en/men/jackets/jacket-leksand-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5480_2c5f614731-aw_ss_21_carryovers_30779-ded-standard.jpg"
-  },
-  {
     "_id": "bcd924e7-467f-5791-8e89-ad4a3b5a6736",
     "brand": "dedicated",
     "name": "Worker Jacket Sala Navy",
@@ -4079,12 +4079,60 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5337_0481a6231f-sunday_ss203561-ded-standard.jpg"
   },
   {
-    "_id": "b761d721-ce5b-50e5-9c63-0539c1de1a6b",
+    "_id": "059a0f37-39cb-540a-82e4-d61c33c0c5b1",
     "brand": "dedicated",
-    "name": "Bucket Hat Peanuts Logo White",
+    "name": "Bucket Hat Dedicated Logo Black",
     "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-peanuts-logo-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6380_2886d04250-dedicated-6480-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5086_4dabbf2d03-dscf6586-ded-standard.jpg"
+  },
+  {
+    "_id": "8a8290c6-41e9-5f81-a6cd-ded44ba2ee23",
+    "brand": "dedicated",
+    "name": "Bucket Hat Dedicated Logo White",
+    "price": 39.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5087_7c704d1b69-dscf6586-ded-standard.jpg"
+  },
+  {
+    "_id": "19e4d913-7cbc-5934-b114-873b133854ac",
+    "brand": "dedicated",
+    "name": "Beanie Narvik Black",
+    "price": 39.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4980_9cc17123d1-dscf2892-ded-standard.jpg"
+  },
+  {
+    "_id": "8abb666f-bc33-5d79-b66c-f9249a423ba3",
+    "brand": "dedicated",
+    "name": "Beanie Narvik Off-White",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4982_73d0358720-dscf2892-ded-standard.jpg"
+  },
+  {
+    "_id": "3648c44b-9786-5660-920c-650ea79b7fa8",
+    "brand": "dedicated",
+    "name": "Sport Cap Globe Black",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-globe-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5900_745e64fdf7-dedicated-5405-ded-standard.jpg"
+  },
+  {
+    "_id": "22e98c51-58e1-502b-8a85-457b61031aca",
+    "brand": "dedicated",
+    "name": "Sport Cap Sunset Palm White",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-sunset-palm-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6381_ccdf203800-dedicated-5125-ded-standard.jpg"
+  },
+  {
+    "_id": "7d622ee6-b009-5d0f-ba9a-66551335a52f",
+    "brand": "dedicated",
+    "name": "Sport Cap Stitch Bike Black",
+    "price": 34.95,
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-stitch-bike-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5903_6c6bd8f16d-dedicated-4396-ded-standard.jpg"
   },
   {
     "_id": "3e2128da-7d12-595b-a16c-ee5927e18ce8",
@@ -4111,36 +4159,20 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6382_2afd1747b8-dedicated-4542-ded-standard.jpg"
   },
   {
-    "_id": "3648c44b-9786-5660-920c-650ea79b7fa8",
+    "_id": "90323780-70b1-5aab-bf75-c1b0bf9d946a",
     "brand": "dedicated",
-    "name": "Sport Cap Globe Black",
+    "name": "Unconstructed Cap Globe Black",
     "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-globe-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5900_745e64fdf7-dedicated-5405-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/unconstructed-cap-globe-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5904_5226cc5c17-dedicated-4360-ded-standard.jpg"
   },
   {
-    "_id": "22e98c51-58e1-502b-8a85-457b61031aca",
+    "_id": "b761d721-ce5b-50e5-9c63-0539c1de1a6b",
     "brand": "dedicated",
-    "name": "Sport Cap Sunset Palm White",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-sunset-palm-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6381_ccdf203800-dedicated-5125-ded-standard.jpg"
-  },
-  {
-    "_id": "059a0f37-39cb-540a-82e4-d61c33c0c5b1",
-    "brand": "dedicated",
-    "name": "Bucket Hat Dedicated Logo Black",
+    "name": "Bucket Hat Peanuts Logo White",
     "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5086_4dabbf2d03-dscf6586-ded-standard.jpg"
-  },
-  {
-    "_id": "8a8290c6-41e9-5f81-a6cd-ded44ba2ee23",
-    "brand": "dedicated",
-    "name": "Bucket Hat Dedicated Logo White",
-    "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-dedicated-logo-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5087_7c704d1b69-dscf6586-ded-standard.jpg"
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-peanuts-logo-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6380_2886d04250-dedicated-6480-ded-standard.jpg"
   },
   {
     "_id": "572cec46-71ee-5101-9c3c-33ab84169738",
@@ -4151,28 +4183,12 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6193_f092b221a6-dedicated-4564-ded-standard.jpg"
   },
   {
-    "_id": "90323780-70b1-5aab-bf75-c1b0bf9d946a",
-    "brand": "dedicated",
-    "name": "Unconstructed Cap Globe Black",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/unconstructed-cap-globe-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5904_5226cc5c17-dedicated-4360-ded-standard.jpg"
-  },
-  {
     "_id": "0f2ebf72-cd70-599a-b079-516a21698d3d",
     "brand": "dedicated",
     "name": "Bucket Hat Tie Dye Multi Color",
     "price": 39.95,
     "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/bucket-hat-tie-dye-multi-color",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6162_4eb463e317-dedicated-4331-ded-standard.jpg"
-  },
-  {
-    "_id": "7d622ee6-b009-5d0f-ba9a-66551335a52f",
-    "brand": "dedicated",
-    "name": "Sport Cap Stitch Bike Black",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/sport-cap-stitch-bike-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5903_6c6bd8f16d-dedicated-4396-ded-standard.jpg"
   },
   {
     "_id": "b0bf3d91-f314-5778-9d66-3738527a5e8d",
@@ -4223,27 +4239,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5853_bfb22a8eed-golden-yellow_kiruna-ded-standard.jpg"
   },
   {
-    "_id": "abb874fb-7c96-5d41-9395-7a520d84bfbe",
-    "brand": "dedicated",
-    "name": "Beanie Narvik Black",
-    "price": 39.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4980_9cc17123d1-dscf2892-ded-standard.jpg"
-  },
-  {
-    "_id": "daf16d9e-60a3-5399-9f5f-21cf2d2f3e69",
-    "brand": "dedicated",
-    "name": "Beanie Narvik Off-White",
-    "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4982_73d0358720-dscf2892-ded-standard.jpg"
-  },
-  {
-    "_id": "5b534940-f66d-5a4e-9074-c5789ef7d735",
+    "_id": "22fcd1ba-b89a-5c69-8ce8-e4aa8c78e2cc",
     "brand": "dedicated",
     "name": "Beanie Narvik Golden Yellow",
     "price": 34.95,
-    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/beanie-narvik-golden-yellow",
+    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/beanie-narvik-golden-yellow",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5441_67c6605e3f-narvik-17740-ded-standard.jpg"
   },
   {
@@ -4271,11 +4271,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4977_79ae430ffa-2-ded-standard.jpg"
   },
   {
-    "_id": "86abc5aa-5f6e-5467-bd92-2d6c1c95d98d",
+    "_id": "85e4f21e-4bbc-5a72-a462-b44a56c43b60",
     "brand": "dedicated",
     "name": "Scarf Knitted Rosse Big Check",
     "price": 49.95,
-    "link": "https://www.dedicatedbrand.com/en/women/caps-and-beanies/scarf-knitted-rosse-big-check",
+    "link": "https://www.dedicatedbrand.com/en/men/caps-and-beanies/scarf-knitted-rosse-big-check",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5541_850dfcd2e5-big-check-17840-ded-standard.jpg"
   },
   {
@@ -5295,22 +5295,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5346_0115f12b74-dedicated_ss201666-ded-standard.jpg"
   },
   {
-    "_id": "56abb623-3668-512a-aa3b-ca368ce60ee3",
-    "brand": "dedicated",
-    "name": "Tote Bag Lycksele Golden Yellow",
-    "price": 29.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6077_634084d3c3-dedicated_300720-8443-ded-standard.jpg"
-  },
-  {
-    "_id": "69a349af-4d2e-5ba2-83fb-7949d02d0b45",
-    "brand": "dedicated",
-    "name": "Tote Bag Lycksele Black",
-    "price": 29.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-black-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5928_652bd7231a-aw_21_dedicated_dec9_25262-ded-standard.jpg"
-  },
-  {
     "_id": "937bfb4f-c34e-57ae-b1e4-9759ca848398",
     "brand": "dedicated",
     "name": "Tote Bag Torekov Save The Bees Off-White",
@@ -5335,14 +5319,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6242_2da7e0d73c-totebag6436-ded-standard.jpg"
   },
   {
-    "_id": "3a0ed578-fbb1-5ed1-84d5-009294114e92",
-    "brand": "dedicated",
-    "name": "Tote Bag Torekov Peas And Love Off-White",
-    "price": 9.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-peas-and-love-off-white",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6239_a999c4f01a-peas-and-love_18710-ded-standard.jpg"
-  },
-  {
     "_id": "6ff3d834-242f-5e38-9675-cac742d0b6a4",
     "brand": "dedicated",
     "name": "Tote Bag Torekov Local Planet Off-White",
@@ -5359,20 +5335,44 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5929_519698504a-totebag6449-ded-standard.jpg"
   },
   {
-    "_id": "af29814d-7720-5e03-abf2-78f7959e7efc",
-    "brand": "dedicated",
-    "name": "Tote Bag Torekov Love Mother",
-    "price": 9.95,
-    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-love-mother",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5813_0d0baff4c3-love-mother-18112-ded-standard.jpg"
-  },
-  {
     "_id": "771f5801-7c12-568e-a9a2-e7c0d78b6f81",
     "brand": "dedicated",
     "name": "Tote Bag Torekov All We Have",
     "price": 9.95,
     "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-all-we-have",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5809_869aa51995-totebag6439-ded-standard.jpg"
+  },
+  {
+    "_id": "56abb623-3668-512a-aa3b-ca368ce60ee3",
+    "brand": "dedicated",
+    "name": "Tote Bag Lycksele Golden Yellow",
+    "price": 29.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6077_634084d3c3-dedicated_300720-8443-ded-standard.jpg"
+  },
+  {
+    "_id": "69a349af-4d2e-5ba2-83fb-7949d02d0b45",
+    "brand": "dedicated",
+    "name": "Tote Bag Lycksele Black",
+    "price": 29.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-lycksele-black-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5928_652bd7231a-aw_21_dedicated_dec9_25262-ded-standard.jpg"
+  },
+  {
+    "_id": "3a0ed578-fbb1-5ed1-84d5-009294114e92",
+    "brand": "dedicated",
+    "name": "Tote Bag Torekov Peas And Love Off-White",
+    "price": 9.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-peas-and-love-off-white",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6239_a999c4f01a-peas-and-love_18710-ded-standard.jpg"
+  },
+  {
+    "_id": "af29814d-7720-5e03-abf2-78f7959e7efc",
+    "brand": "dedicated",
+    "name": "Tote Bag Torekov Love Mother",
+    "price": 9.95,
+    "link": "https://www.dedicatedbrand.com/en/men/tote-bags/tote-bag-torekov-love-mother",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5813_0d0baff4c3-love-mother-18112-ded-standard.jpg"
   },
   {
     "_id": "95d147ba-112a-501b-bc8f-a1cbed5edba9",
@@ -6543,22 +6543,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5890_1c4f05a6c3-dedicated_300620-2996-ded-standard.jpg"
   },
   {
-    "_id": "191f79fe-3db8-5a5a-8c93-a977bf5f447b",
-    "brand": "dedicated",
-    "name": "Shirt Lima Leaf Green",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/women/news/shirt-lima-leaf-green",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5554_a108292f19-aw_ss_21_carryovers_29643-ded-standard.jpg"
-  },
-  {
-    "_id": "97d6748f-88b2-5b1c-9b0d-4999e4a0ae30",
-    "brand": "dedicated",
-    "name": "Jumpsuit Hunnebo Black",
-    "price": 119.95,
-    "link": "https://www.dedicatedbrand.com/en/women/news/jumpsuit-hunnebo-black",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5938_4157b2b109-dedicated_300720-7020-ded-standard.jpg"
-  },
-  {
     "_id": "2bb4dec4-ad7b-5e1d-ba57-26f4ee7b0098",
     "brand": "dedicated",
     "name": "Hoodie Sundborn Base Black",
@@ -6935,6 +6919,22 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5669_f7f4c99ef9-aw_ss_21_carryovers_28607-ded-standard.jpg"
   },
   {
+    "_id": "191f79fe-3db8-5a5a-8c93-a977bf5f447b",
+    "brand": "dedicated",
+    "name": "Shirt Lima Leaf Green",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/women/news/shirt-lima-leaf-green",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5554_a108292f19-aw_ss_21_carryovers_29643-ded-standard.jpg"
+  },
+  {
+    "_id": "97d6748f-88b2-5b1c-9b0d-4999e4a0ae30",
+    "brand": "dedicated",
+    "name": "Jumpsuit Hunnebo Black",
+    "price": 119.95,
+    "link": "https://www.dedicatedbrand.com/en/women/news/jumpsuit-hunnebo-black",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5938_4157b2b109-dedicated_300720-7020-ded-standard.jpg"
+  },
+  {
     "_id": "87e7a4b0-43a1-58bb-b50f-5900912271cc",
     "brand": "dedicated",
     "name": "T-shirt Visby Local Planet Off-White",
@@ -7207,11 +7207,11 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5793_a55137d846-saturday_10691-ded-standard.jpg"
   },
   {
-    "_id": "1cb6fbb1-c447-5f87-94e4-ae6675a76e64",
+    "_id": "84a06e31-232a-59f2-bda8-3596352b8395",
     "brand": "dedicated",
     "name": "T-shirt Mysen Base White",
     "price": 24.95,
-    "link": "https://www.dedicatedbrand.com/en/women/t-shirts-and-tops/base/t-shirt-mysen-white",
+    "link": "https://www.dedicatedbrand.com/en/women/basics/t-shirt-mysen-white",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/4540_a0ae178cac-dedicated0777-ded-standard.jpg"
   },
   {
@@ -8207,14 +8207,6 @@
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6068_f7d8abaac0-dedicated_300620-2652-ded-standard.jpg"
   },
   {
-    "_id": "71320c9f-8c34-526c-94e3-332b820f63f0",
-    "brand": "dedicated",
-    "name": "Sweatshirt Lerdala Coral",
-    "price": 89.95,
-    "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-lerdala-coral",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6058_66d54ccde1-dedicated-3884-ded-standard.jpg"
-  },
-  {
     "_id": "4f703305-bb10-5dc7-b94b-30643022fd18",
     "brand": "dedicated",
     "name": "Sweatshirt Ystad Raglan Base Grey Melange",
@@ -8229,6 +8221,14 @@
     "price": 59.95,
     "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-ystad-raglan-base-black",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5629_2c3004327d-dedicated-3794-ded-standard.jpg"
+  },
+  {
+    "_id": "71320c9f-8c34-526c-94e3-332b820f63f0",
+    "brand": "dedicated",
+    "name": "Sweatshirt Lerdala Coral",
+    "price": 89.95,
+    "link": "https://www.dedicatedbrand.com/en/women/basics/sweatshirt-lerdala-coral",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/6058_66d54ccde1-dedicated-3884-ded-standard.jpg"
   },
   {
     "_id": "12ef248a-b438-52c5-bcad-2bd675519459",
@@ -8269,14 +8269,6 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-doghouse-navy",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5951_db85be77c3-dedicated-4248-ded-standard.jpg"
-  },
-  {
-    "_id": "36802a3a-e22d-5558-b97f-b06d969b3bb1",
-    "brand": "dedicated",
-    "name": "Sweatshirt Ystad Raglan Split Golden Yellow",
-    "price": 79.95,
-    "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-split-golden-yellow",
-    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5646_eaa45271ee-200220dedicated0797-ded-standard.jpg"
   },
   {
     "_id": "d6db1e9e-8676-58ec-90a9-fccd678f42af",
@@ -8357,6 +8349,14 @@
     "price": 79.95,
     "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-good-and-you",
     "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5638_b99bc08550-sunday_13755-ded-standard.jpg"
+  },
+  {
+    "_id": "36802a3a-e22d-5558-b97f-b06d969b3bb1",
+    "brand": "dedicated",
+    "name": "Sweatshirt Ystad Raglan Split Golden Yellow",
+    "price": 79.95,
+    "link": "https://www.dedicatedbrand.com/en/women/sweats/sweatshirt-ystad-raglan-split-golden-yellow",
+    "image": "https://tshirtstore.centracdn.net/client/dynamic/images/5646_eaa45271ee-200220dedicated0797-ded-standard.jpg"
   },
   {
     "_id": "50200cd4-1eb1-5370-b705-43e7289b3502",

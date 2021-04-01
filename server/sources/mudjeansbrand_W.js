@@ -29,10 +29,11 @@ const parse = data => {
                 price.lastIndexOf('€') + 1,
                 price.length - 1
             ));
-            const image = $(element)
+            let image = $(element)
                 .find('.img.img--wrapper')
                 .find('img')
                 .attr('src');
+            image = "http:"+image;
 
             return {_id, 'brand': 'mudjeans', name, price, link, image};
         })

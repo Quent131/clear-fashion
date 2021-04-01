@@ -160,11 +160,11 @@
     "image": "https://adresse.paris/29633-home_default/manteau-europe.jpg"
   },
   {
-    "_id": "5a1e7f2d-8649-52bd-9121-4316078e85fb",
+    "_id": "d45515e0-250f-5266-aa0b-a1964a70cbd9",
     "brand": "adresse",
     "name": "Jean Unbranded Brut 99% coton - DENIM",
     "price": 119,
-    "link": "https://adresse.paris/chinos-pantalons-shorts/3395-jean-tight-elasthane-ubranded-1000000157130.html#/34-couleur-denim/40-taille_fastmag-32_34",
+    "link": "https://adresse.paris/chinos-pantalons-shorts/3395-jean-tight-elasthane-ubranded-1000000157130.html#/34-couleur-denim/42-taille_fastmag-31_34",
     "image": "https://adresse.paris/30120-home_default/jean-tight-elasthane-ubranded.jpg"
   },
   {
@@ -226,7 +226,7 @@
   {
     "_id": "214f153e-4ab2-5140-84a2-e3583b230c54",
     "brand": "adresse",
-    "name": "Pull Monceau",
+    "name": "Pull Monceau ecru",
     "price": 79,
     "link": "https://adresse.paris/pulls-sweatshirts/3919-pull-a-col-rond-monceau-1300000247948.html",
     "image": "https://adresse.paris/31203-home_default/pull-a-col-rond-monceau.jpg"
@@ -435,7 +435,7 @@
     "_id": "6af07f6a-c39c-5a9f-a06f-aac2785981b1",
     "brand": "adresse",
     "name": "T-shirt Valdes",
-    "price": 39,
+    "price": 40,
     "link": "https://adresse.paris/chemises/4185-t-shirt-valdes-1300000259675.html",
     "image": "https://adresse.paris/32008-home_default/t-shirt-valdes.jpg"
   },
@@ -603,7 +603,7 @@
     "_id": "518dfb96-a189-5e16-91ec-bb61f5bac0f0",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4251-sweatshirt-jaures-1300000262088.html",
     "image": "https://adresse.paris/30346-home_default/sweatshirt-jaures.jpg"
   },
@@ -667,7 +667,7 @@
     "_id": "4bf00bcb-50d5-5cc8-95af-385f99242a9c",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès Hokusai",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4293-jaures-hokusai-1300000266635.html",
     "image": "https://adresse.paris/30971-home_default/jaures-hokusai.jpg"
   },
@@ -675,7 +675,7 @@
     "_id": "3de69b11-b1f5-5581-b5e5-3f9170507c83",
     "brand": "adresse",
     "name": "Sweatshirt Jaurès Hokusai Bordeaux",
-    "price": 69,
+    "price": 75,
     "link": "https://adresse.paris/pulls-sweatshirts/4294-jaures-hokusai-1300000266598.html",
     "image": "https://adresse.paris/30975-home_default/jaures-hokusai.jpg"
   },
